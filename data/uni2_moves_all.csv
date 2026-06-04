@@ -1,0 +1,1559 @@
+chara,name,input,damage,startup,active,recovery,attribute,type,frameAdv
+Akatsuki,,2A,150,5,2,12,"Strike, Foot",normal,-2
+Akatsuki,,2AA,150,5,2,12,"Strike, Foot",normal,-2
+Akatsuki,,2B,500,8,5,11,"Strike, Foot",normal,0
+Akatsuki,,2C,700,11,5,19,"Strike, Foot",normal,-6
+Akatsuki,,5A,190,5,2,12,Strike,normal,-2
+Akatsuki,,5AA,190,7,4,15,Strike,normal,-6
+Akatsuki,,5B,510,7,3,16,Strike,normal,-3
+Akatsuki,,5B,510,7,4,12,Strike,normal,0
+Akatsuki,,5C,690,10,4,21,Strike,normal,-7
+Akatsuki,,66B,650,10,2,12,Strike,normal,-2
+Akatsuki,,66C,880,11,4,18,Strike,normal,-4
+Akatsuki,,8jC,736,10,3,14,"Strike, Head",normal,Varies
+Akatsuki,,c.5C,839,9,5,12,Strike,normal,+1
+Akatsuki,,j7B/j9B,510,10,6,15,"Strike, Head",normal,Varies
+Akatsuki,,j7C/9jC,650,12,4,15,"Strike, Head",normal,Varies
+Akatsuki,,j8B,456,8,2,19,"Strike, Head",normal,Varies
+Akatsuki,,jA,150,7,7,6,"Strike, Head",normal,Varies
+Akatsuki,"Air Throw",jA+D,1100,3,1,22,Throw,other,+52
+Akatsuki,"Armor Pierce Kick",214A,736,11,4,14,Strike,special,-2
+Akatsuki,"Armor Pierce Kick",214B,1544,9,"3, (6), 5, (4), 4",18,Strike,special,-4
+Akatsuki,"Armor Pierce Kick",214C,1894,1+6,"40, (6), 3",31,Strike,special,-16
+Akatsuki,"Armor Pierce Kick",214[A],1280,"14, 24 (2nd)","4, (6), 6",22,Strike,special,-5
+Akatsuki,"Armor Pierce Kick (Air)",j214A,736,8,7,"Until Landing + 8",Strike,special,"-6 to +3"
+Akatsuki,"Armor Pierce Kick (Air)",j214B,1235,9,"3, (8), 2, (9), 4","Until Landing + 12",Strike,special,-4
+Akatsuki,"Armor Pierce Kick (Air)",j214C,2073,1+7,"40, (8), 4, (2), 4","Until Landing + 16",Strike,special,-9
+Akatsuki,"Blitz Shot",236A,925,12,Varies,32,Projectile,special,"-6 ob/+33 on hit"
+Akatsuki,"Blitz Shot",236B,925,12,Varies,34,Projectile,special,"-6 ob/+31 on hit"
+Akatsuki,"Blitz Shot",236C,1520,7,Varies,33,Projectile,special,+10
+Akatsuki,"Blitz Shot (Air)",j236A,736,14,Varies,"Until Landing + 10",Projectile,special,-3
+Akatsuki,"Blitz Shot (Air)",j236B,736,14,Varies,"Until Landing + 12",Projectile,special,-10
+Akatsuki,"Blitz Shot (Air)",j236C,1520,7,Varies,"Until Landing + 12",Projectile,special,+8
+Akatsuki,"Blitz Shot (Increase)",236[A],1128,31,Varies,31,Projectile,special,"+1 ob/+34 on hit"
+Akatsuki,"Blitz Shot (Increase)",236[B],1128,27,Varies,32,Projectile,special,"0 ob/+33 on hit"
+Akatsuki,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Akatsuki,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Akatsuki,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Akatsuki,"Heavy Assault Protection",236B+C,1248,"1(Parry) 9(Strike)",14(Parry),"34(No Parry)",Strike,special,"+4(Strike is blocked)"
+Akatsuki,"Helm Crusher",6B,736,25,2,22,Strike,normal,-6
+Akatsuki,"Human Cannon",22A,1360,5,7,29,Strike,special,-12~-18
+Akatsuki,"Human Cannon",22B,1773,6,14,39,Strike,special,-29
+Akatsuki,"Human Cannon",22C,1947,1+4,"6, (2), 2, (4), 3, (3), 4",29,Strike,special,-31
+Akatsuki,"Jaw Crusher",6C,1380,10,3,29,Strike,normal,-16
+Akatsuki,Kamikaze,41236D,3919,1+12,"4, (4), 8",36,Strike,super,-10~-18
+Akatsuki,Ouka-Kai,A+B+C+D,4010,1+14,2,51,Strike,super,-25
+Akatsuki,"Reflector (Catch)",2B+C,,1,"13 / 14 (&lt;font style=&quot;font-weight:bold; color:Teal&quot;           &gt;Vorpal&lt;/font&gt;)",,,other,
+Akatsuki,"Reflector (Catch)",B+C,,1,"13 / 14 (&lt;font style=&quot;font-weight:bold; color:Teal&quot;           &gt;Vorpal&lt;/font&gt;)",,,other,
+Akatsuki,"Reflector (Catch)",jB+C,,1,"13 / 14 (&lt;font style=&quot;font-weight:bold; color:Teal&quot;           &gt;Vorpal&lt;/font&gt;)","Until Landing + 12",,other,
+Akatsuki,"Reflector (Strike)",2B+C,736,6,4,20,0,other,-6
+Akatsuki,"Reflector (Strike)",B+C,736,6,4,20,0,other,-6
+Akatsuki,"Reflector (Strike)",jB+C,736,6,4,20,"Strike, Head",other,Varies
+Akatsuki,"Skull Crusher",j6C,620,13,4,"4 on landing","Strike, Head",normal,Varies
+Akatsuki,"Skull Crusher",j6[C],736,18,4,"4 on landing","Strike, Head",normal,Varies
+Akatsuki,"Steer Ender",A+B,,1,,,,other,-4
+Akatsuki,Throw,A+D,1632,4,1,22,Throw,other,+18
+Akatsuki,"Tile Crusher",j2C,850,17,"Until landing + 1","13 on landing","Strike, Head",normal,-2~+1
+Akatsuki,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Akatsuki,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Byakuya,,2A,150,6,2,12,Strike,normal,-2
+Byakuya,,2B,490,9,5,19,"Strike, Foot",normal,-8
+Byakuya,,2C,620,11,5,25,"Strike, Foot",normal,-12
+Byakuya,,3C,620,11,3,22,Strike,normal,-7
+Byakuya,,3[C],898,29,3,22,Strike,normal,-7
+Byakuya,,5A,180,6,3,12,Strike,normal,-3
+Byakuya,,5B,450,10,5,17,Strike,normal,-6
+Byakuya,,5BB,598,13,4,25,Strike,normal,-11
+Byakuya,,5C,690,12,3,22,Strike,normal,-7
+Byakuya,,66B,650,9,16,14,"Strike, Foot",normal,-12~+3
+Byakuya,,66C,1228,15,18,23,Strike,normal,-9
+Byakuya,,A+D,1570,4,,,Throw,other,+60
+Byakuya,,A+D~1,1570,,,,Throw,other,+61
+Byakuya,,A+D~4,1570,,,,Throw,other,+61
+Byakuya,,A+D~7,1570,,,,Throw,other,+62
+Byakuya,,j2C,674,12,20,9,"Strike, Head",normal,-5~+12
+Byakuya,,j2[C],1125,19,,,"Strike, Head",normal,+5~+13
+Byakuya,,jA,140,8,2,13,"Strike, Head",normal,-3~+9
+Byakuya,,jB,440,10,4,26,"Strike, Head",normal,-14~+12
+Byakuya,,jC,590,12,4,19,"Strike, Head",normal,-5~+13
+Byakuya,"Become a Part of Me",41236D,3150,9,,,Throw,super,-
+Byakuya,"Caught You! (A)",214X~X~A,680,9,4,,"Strike, Dive",special,-11~+7
+Byakuya,"Caught You! (B)",214X~X~B,898,9,4,,"Strike, Dive",special,-23~-12
+Byakuya,"Caught You! (C)",214X~X~C,898,10,4,,"Strike, Dive",special,-7~+10
+Byakuya,"Caught You! (D)",214X~X~D,898,36,,,Strike,special,
+Byakuya,"Caught You! (Increase A)",214[X]~A,680,9,4,23,"Strike, Dive",special,-11~+5
+Byakuya,"Caught You! (Increase B)",214[X]~B,"647, 898 (1410)",29,11,,"Strike, Dive (falling attack), Strike (web)",special,"-6~-3 (+16 w/ web)"
+Byakuya,"Caught You! (Increase C)",214[X]~C,"898, 898 (1481)",22~36,11,,"Strike, Foot (slide), Strike (web)",special,"-9~+2 (+15~+19 w/ web)"
+Byakuya,"Caught You! (Increase D)",214[X]~D,898,36,,,Strike,special,
+Byakuya,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Byakuya,"Endless Nightmare",A+B+C+D,,1+14,2,51,Strike,super,-25
+Byakuya,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Byakuya,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Byakuya,"How Shall I Cook You? (A)",236A,438,11,4,26,Strike,special,-6
+Byakuya,"How Shall I Cook You? (B)",236B,438,12,4,27,Strike,special,-7
+Byakuya,"How Shall I Cook You? (C)",236C,2060,4+4,"4, (18), 6, (16), 4, (14), 6, (15), 10, (6), 6",33,Strike,special,-21
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (A)",214A,898,47,,,Strike,special,+22
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (Air A)",j214A,898,43,,,Strike,special,
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (Air B)",j214B,898,49,,,Strike,special,
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (Air C)",j214C,898,51,,,Strike,special,
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (B)",214B,898,49,,,Strike,special,+18
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (C)",214C,898,51,,,Strike,special,+16
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (Increase)",214[X],,,,,,special,
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (Just Kidding)",B+C,898,26,4,33,Strike,other,-19
+Byakuya,"I&#039;ll Plant It Somewhere Over Here (Just Kidding)",[B]+[C],898,30,4,34,,other,-20
+Byakuya,"Let&#039;s Have a Taste (A)",22A,,14,5,19,,special,-4
+Byakuya,"Let&#039;s Have a Taste (B)",22B,,18,5,24,,special,-9
+Byakuya,"Let&#039;s Have a Taste (C)",22C,1998,4+10,,,,special,+2
+Byakuya,"Minced? (A)",236A~6X,660,16,6,28,Strike,special,-8
+Byakuya,"Minced? (B)",236B~6X,660,20,6,32,Strike,special,-12
+Byakuya,"No Point In Running",214X~X,,13,,,,special,
+Byakuya,"Or... Shredded? (A)",236A~6X~6X,920,9,"12, (8), 6",33,Strike,special,-21
+Byakuya,"Or... Shredded? (B)",236B~6X~6X,920,9,"12, (8), 6",33,Strike,special,-21
+Byakuya,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Byakuya,"You&#039;re Almost Ready To Eat (A)",623A,898,33,1,"39 (28 on grab)","Throw (grab), Strike (web)",special,
+Byakuya,"You&#039;re Almost Ready To Eat (C)",623B,898,34,1,"40 (29 on grab)","Throw (grab), Strike (web)",special,
+Byakuya,"You&#039;re Almost Ready To Eat (C)",623C,"1390 (grab), 898 (web)",4+10,2,37,"Throw (grab), Strike (web)",special,
+Byakuya,"You&#039;re Almost Ready To Eat (Increase A)",623[A],898,47,,,Strike,special,+17
+Byakuya,"You&#039;re Almost Ready To Eat (Increase B)",623[B],899,56,,,Strike,special,+22
+Carmine,,2A,180,6,2,12,Strike,normal,-2
+Carmine,,2B,430,7,5,13,Strike,normal,-2
+Carmine,,2C,590,11,2,28,Strike,normal,-14
+Carmine,,3B,564,8,3,23,Strike,normal,-6
+Carmine,,3C,781,15,5,20,Strike,normal,-9
+Carmine,,3[C],890,20,5,20,Strike,normal,-7
+Carmine,,5A,185,6,2,12,Strike,normal,-2
+Carmine,,5B,570,9,5,16,Strike,normal,-5
+Carmine,,5BB,490,14,7,14,Strike,normal,-5
+Carmine,,5BBB,,16,,,Throw,normal,+42
+Carmine,,5C,670,15,3,23,Strike,normal,-8
+Carmine,,66B,620,10,3,15,Strike,normal,-4
+Carmine,,66C,1122,15,5,16,Strike,normal,-1
+Carmine,,6B,720,14,22,24,Projectile,normal,-2
+Carmine,,6B~B,1008,18,7,15,Projectile,normal,+3
+Carmine,,6C,550,13,3,21,Strike,normal,-6
+Carmine,,6[B],720,13,,,Projectile,normal,-3
+Carmine,,6[C],740,27,3,26,Strike,normal,-11
+Carmine,,j3C,710,15,,,,normal,-1~-7
+Carmine,,j3[C],940,23,,,Strike,normal,-3~+1
+Carmine,,j6B,720,20,,,Projectile,normal,+10(TK)
+Carmine,,j6B~B,,,,,Projectile,normal,
+Carmine,,jA,140,8,,,"Strike, Head",normal,
+Carmine,,jB,410,10,3,17,"Strike, Head",normal,Varies
+Carmine,,jB~B,,8,2,17,"Strike, Head",normal,Varies
+Carmine,,jC,604,12,"1, 1",34,"Strike, Head",normal,Varies
+Carmine,,j[C],781,25,"1, 2",34,"Strike, Head",normal,Varies
+Carmine,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Carmine,"Give Me That!",214B+C,1265,10,2,,Throw,special,+52(hit)
+Carmine,"Go Down, Already!",66B+C,780,14,,,Strike,other,-9
+Carmine,"Go Down, Already! (IC)",66[B+C],1040,22,,,Strike,other,-4
+Carmine,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Carmine,"Hahahaha! Be Devoured!",41236D,3161~3546,7,,,"Strike, Projectile",super,-38~-22
+Carmine,"Launch! (A)",22A,910,18,3,25,Projectile,special,+2
+Carmine,"Launch! (B)",22B,910,18,3,25,Projectile,special,+2
+Carmine,"Launch! (C)",22C,1494,16,3,24,Projectile,special,"+3 [+4]"
+Carmine,"Launch! (Dissolve)",22X,910,18,3,25,Strike,special,+2
+Carmine,"Pulverize! (A)",623A,1426~2095,18,6,12,Strike,special,-4[+2]
+Carmine,"Pulverize! (B)",623B,1450~2118,11,6,18,Strike,special,-10[-5]
+Carmine,"Pulverize! (C)",623C,1812~2078,13,12,20,Strike,special,-12~+11
+Carmine,"Pulverize! (Dissolve A)",623A,1040,24,7,,Projectile,special,+20
+Carmine,"Pulverize! (Dissolve B)",623B,1040,17,7,,Projectile,special,+14
+Carmine,"Pulverize! (Dissolve C)",623C,1040,16,7,,Projectile,special,+3
+Carmine,"Spin! (A)",236A,1371,34,37,,Projectile,special,+53~+72
+Carmine,"Spin! (air A)",j236A,1371,37,37,,Projectile,special,+70
+Carmine,"Spin! (air B)",j236B,1371,37,37,,Projectile,special,+70
+Carmine,"Spin! (air C)",j236C,1665,22,52,,Projectile,special,+60
+Carmine,"Spin! (B)",236B,1371,34,37,,Projectile,special,+53~+72
+Carmine,"Spin! (C)",236C,1665,19,52,16,Projectile,special,+62
+Carmine,"Spin! (Dissolve)",236X,740,30,18,,"Foot, Projectile",special,Varies
+Carmine,Throw,A+D,1580,4,1,26,Throw,other,"+61 (hit)"
+Carmine,"Thrust! (A)",214A,1435,13,2(9)7,24,,special,-2
+Carmine,"Thrust! (B)",214B,1435,14,2(13)7,27,,special,-5
+Carmine,"Thrust! (C)",214C,1863,16,,,Strike,special,+2
+Carmine,"Thrust! (Increase A)",214[A],788,31,5,18,Strike,special,-1
+Carmine,"Thrust! (Increase B)",214[B],788,31,5,18,Strike,special,-1
+Carmine,"Thrust! (Release)",214]X[,893,,,,Strike,special,
+Carmine,Twist!,B+C,320,15,3,23,"Strike, Foot",other,-3
+Carmine,"Twist! (Air Vorpal)",jB+C,352,12,3,23,"Strike, Foot",other,-3
+Carmine,"Twist! (Air)",jB+C,320,16,3,23,"Strike, Foot",other,-3
+Carmine,"Twist! (Vorpal)",B+C,352,12,3,23,"Strike, Foot",other,-3
+Carmine,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Carmine,"You Shit! This is the END!",A+B+C+D,3756,1+14,2,51,Strike,super,-25
+Chaos,,2A,140,6,2,12,"Strike, Foot",normal,-2
+Chaos,,2B,400,8,3,16,"Strike, Foot",normal,-3
+Chaos,,2C,580,12,3,26,"Strike, Foot",normal,-11
+Chaos,,5A,180,6,2,12,Strike,normal,-2
+Chaos,,5B,400,8,2,19,Strike,normal,-5
+Chaos,,5BB,450,12,2,21,Strike,normal,-8
+Chaos,,5C,510,11,3,22,Strike,normal,-7
+Chaos,,5CC,427,6,5,26,Strike,normal,-13
+Chaos,,66B,400,10,2,21,Strike,normal,-5
+Chaos,,66C,780,11,3,21,Strike,normal,-6
+Chaos,,j2C,620,12,4,X,"Head, &lt;font style=&quot;color:Indigo&quot;   &gt;Air Shield&lt;/font&gt;",normal,
+Chaos,,jA,140,8,2,X,"Head, Strike",normal,
+Chaos,,jB,400,10,4,X,"Head, Strike",normal,
+Chaos,,jC,520,12,3,X,"Head, Strike",normal,
+Chaos,"Burn Them to a Crisp",B+C,892,19,,,Projectile,other,+2
+Chaos,"Cold Reflection",6C,640,14,14,29,"Projectile, Strike",normal,-4~-15
+Chaos,"Cold Reflection",6C_Reflect,640,14,14,29,"Projectile, Strike",normal,-4~-15
+Chaos,"Come Forth",22D,,,,"31F Total",,special,
+Chaos,Conceal,22A,1139,"Normal: 37 ~ 96&lt;br&gt;Prepare: 31",2,"Chaos: 44&lt;br&gt;Azhi: 95",Strike,special,"Normal: +25&lt;br&gt;Prepare: +21"
+Chaos,Conceal,22B,1139,"Normal: 64 ~ 123&lt;br&gt;Prepare:",2,"Chaos: 44&lt;br&gt;Azhi: 95",Strike,special,"Normal: +25&lt;br&gt;Prepare: +21"
+Chaos,Conceal,22C,1649,"Normal: 1+53&lt;br&gt;Prepare: 1+22",2,"Chaos: 44&lt;br&gt;Azhi: 95",Strike,special,"Normal: +25&lt;br&gt;Prepare: +8"
+Chaos,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Chaos,"Deep Revenance",A+B+C+D,3760,1+14,2,51,Strike,super,-25
+Chaos,"Dissect Barrage",41236D,3042,1+12,2,55,Strike,super,-39
+Chaos,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Chaos,Prepare,22]X[,,22,,"595F Total",,special,
+Chaos,Repel,623A,670,"Normal: 23&lt;br&gt;Air: 14&lt;br&gt;Prepare: 20",5,"Normal: 18 on landing&lt;br&gt;Air: 21 on landing&lt;br&gt;Prepare: 20 on landing",Strike,special,"Normal: +6&lt;br&gt;Prepare: +3"
+Chaos,Repel,623B,690,"Normal: 27&lt;br&gt;Air: 18&lt;br&gt;Prepare: 24",5,"Normal: 18 on landing&lt;br&gt;Air: 21 on landing&lt;br&gt;Prepare: 20 on landing",Strike,special,"Normal: +10&lt;br&gt;Prepare: +7"
+Chaos,Repel,623C,720*2,"Normal: 1+13&lt;br&gt;Air: 1+9&lt;br&gt;Prepare: 1+11",5(12)5,"Normal: 20 on landing&lt;br&gt;Air: 18 on landing&lt;br&gt;Prepare: 17 on landing",Strike,special,"Normal: +17&lt;br&gt;Prepare: +15"
+Chaos,Repel,623[B],540*2,"Normal: 36&lt;br&gt;Air: 25&lt;br&gt;Prepare: 33",4(11)5,"Normal: 18 on landing&lt;br&gt;Air: 21 on landing&lt;br&gt;Prepare: 20 on landing",Strike,special,"Normal: +38&lt;br&gt;Prepare: +35"
+Chaos,"Slither Up",[X],,,,,,special,
+Chaos,"Smart Steer",5A+B,,,,,Strike,other,-4
+Chaos,"Snaking Around",66~6A+B,,1,,30,,normal,
+Chaos,"Spew Out",214A,550,"Normal: 19&lt;br&gt;Prepare: 17",-,,,special,Varies
+Chaos,"Spew Out",214B,550,"Normal: 19&lt;br&gt;Prepare: 17",,,,special,Varies
+Chaos,"Spew Out",214C,700*3,"Normal: 1+18&lt;br&gt;Prepare: 1+16",,,"[[Under Night In-Birth/Glossary#Knockdown|Knockdown]]",special,Varies
+Chaos,"Spew Out",214[A],620*2,"Normal: 33&lt;br&gt;Prepare: 31",,,,special,Varies
+Chaos,"Spew Out",214[B],620*2,"Normal: 33&lt;br&gt;Prepare: 31",,,,special,Varies
+Chaos,"That&#039;s Your Prey",236A,"Normal: 650&lt;br&gt;Prepare: 250*2, 650","Azhi Grounded: 15&lt;br&gt; Azhi Airborne: Till L&lt;br&gt;Prepare: 17","Normal: 5&lt;br&gt;Prepare: 4, 3(14)5",32,Strike,special,"Normal: -8&lt;br&gt;Prepare: +26"
+Chaos,"That&#039;s Your Prey",236B,710,"Azhi Grounded: 14&lt;br&gt;Azhi Airborne: 9&lt;br&gt; Prepare: 17","Azhi Grounded: 8&lt;br&gt;Azhi Airborne: 4&lt;br&gt;Prepare: 4, 3(14)8",30,Strike,special,"Normal: -9&lt;br&gt;Prepare: +25"
+Chaos,"That&#039;s Your Prey",236C,"Normal: 333*2, 444, 666&lt;br&gt;Prepare: 250*2, 333*2, 444, 666","Normal: 1+8&lt;br&gt;Prepare:1+16","Azhi Ground: 5(25)4, 3&lt;br&gt;Azhi Air: Till L, 5(25)4, 3&lt;br&gt;Prepare: 4, 3(14)5(25)4, 3",28,Strike,special,"Normal: +38&lt;br&gt;Prepare: +74"
+Chaos,"That&#039;s Your Prey",236[B],"Normal: 820&lt;br&gt;Prepare: 250*2, 820","Normal: 20&lt;br&gt;Prepare: 17","Normal: 10&lt;br&gt;Prepare: 4, 3(19)10",30,Strike,special,"Normal: -3&lt;br&gt;Prepare: +31"
+Chaos,Throw,A+D,1570,4,1,22,Throw,other,+22(hit)
+Chaos,"Up and At &#039;Em",2B+C,900,,,,Strike,other,+28
+Chaos,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Eltnum,,214[B],922×2,28,,,Throw,special,
+Eltnum,,2A,140,6,2,12,Foot,normal,-2
+Eltnum,,2B,430,7,4,20,Foot,normal,-8
+Eltnum,,2C,350×2,13,2(6)4,16,"Foot, Strike",normal,-4
+Eltnum,,3C,470,9,2,22,Strike,normal,-6
+Eltnum,,3[C],520,18,2,24,Strike,normal,-8
+Eltnum,,421C,"400×3, 850","4+(20 Flash)+3",13,34,,special,-20
+Eltnum,,5A,170,5,2,12,Strike,normal,-2
+Eltnum,,5B,490,8,4,18,Strike,normal,-6
+Eltnum,,5C,680,13,4,22,Strike,normal,-10
+Eltnum,,5C~C,450,22,5,17,Strike,normal,+3
+Eltnum,,5[C],720,24,4,20,Strike,normal,-6
+Eltnum,,66B,640,11,4,13,Strike,normal,-5
+Eltnum,,66C,"420, 500",10,4(10)8,15,Strike,normal,-5
+Eltnum,,6B,615,26,2,25,Strike,normal,-9
+Eltnum,,6C,590,22,4,17,Strike,normal,-3
+Eltnum,,6[B],950,33,8,19,Strike,normal,-9
+Eltnum,,6[C],900,36,4,12,Strike,normal,+2
+Eltnum,,B+C,"250, 560",11,4(4)5,15,Strike,other,-2
+Eltnum,,j2b,350,12,"Until landing",11,Head,normal,
+Eltnum,,j2[B],550,19,"Until Landing",8,Head,normal,
+Eltnum,,jA,140,"8 &lt;br&gt; &#039;&#039;Assault&#039;&#039;: 21",8,9,Head,normal,
+Eltnum,,jB,400,"10 &lt;br&gt; &#039;&#039;Assault&#039;&#039;: 22",5,15,Head,normal,
+Eltnum,,jC,580,"12 &lt;br&gt; &#039;&#039;Assault&#039;&#039;: 24",5,20,Head,normal,
+Eltnum,,j[C],"975 [750]","19 &lt;br&gt; &#039;&#039;Assault&#039;&#039;: 31",5,20,Head,normal,
+Eltnum,,[B]+[C],"270, 920",22,3(7)5,25,Strike,other,-1
+Eltnum,"Air Backdash",j44,,,,,,special,
+Eltnum,"Air Throw",jA+D,1160,"2 [1]","1 [2]","Until Landing+8",Throw,other,
+Eltnum,"Barrel Replica",41236D,"386×10, 770","1+(60 Flash)+9",,,Strike,super,-22
+Eltnum,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Eltnum,"Cutting Sync",421A,,,,,,special,
+Eltnum,"Cutting Sync",421B,"320, 650",25,"2, (2), 3",26,Strike,special,-11
+Eltnum,"Etherlite Air",623A,"375×2, 350×3",5,17,28,Strike,special,-15
+Eltnum,"Etherlite Air",623B,"600, 280×5",6,19,34,Strike,special,-25
+Eltnum,"Etherlite Air",623C,"190×10, 100, 1300",5,"17, (5), 8",42,Strike,special,-29
+Eltnum,"Etherlite Air (Air)",j623A,"375×4, 330",7,"3,3,5","Until Landing+6",Strike,special,
+Eltnum,"Etherlite Air (Air)",j623B,"360×3, 400×2, 310",7,14,"Until landing",Strike,special,"-25 ~ -35"
+Eltnum,"Etherlite Air (Air)",j623C,"190×10, 100, 1300",5,16,"Until Landing",Strike,special,"-32 ~ -59"
+Eltnum,"Etherlite Ground",214A,"420, 640",13,4,24,Foot,special,-8
+Eltnum,"Etherlite Ground",214B,"440, 710",18,4,24,Foot,special,-8
+Eltnum,"Etherlite Ground",214C,"400, 290×5",9,7,18,Foot,special,-6
+Eltnum,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Eltnum,"Hollow Point",236A,650,11,2,31,Projectile,special,-3
+Eltnum,"Hollow Point",236A,850,11,2,26,Projectile,special,+1
+Eltnum,"Hollow Point",236B,"270×2, 450",13,2(7)2(10)2,34,Projectile,special,-6
+Eltnum,"Hollow Point",236B,"350×2, 620",13,"2, (7), 2, (10), 2",34,Projectile,special,-1
+Eltnum,"Hollow Point (EX)",236C,"330×6 [380×6]",12,22,44,Projectile,special,"-12 (-4~-8)"
+Eltnum,"Hollow Point (EX)",236C,"400×6, 500",12,26,44,Projectile,special,"-12 (-4~-8)"
+Eltnum,"Hollow Point (Increase)",236[A],820,21,"4, 4, 5",13,Projectile,special,"+3, +7, +11"
+Eltnum,"Hollow Point (Increase)",236[A],820,24,"4, 4, 5",20,Projectile,special,"-4, 0, +4"
+Eltnum,"Hollow Point (Increase)",236[B],820,24,"4, 4, 5",22,Projectile,special,"-6, -2, +2"
+Eltnum,"Hollow Point (Increase)",236[B],820,24,"4, 4, 5",16,Projectile,special,"0, +4, +8"
+Eltnum,Reload,22C,,,,"See notes",,special,
+Eltnum,"Slide Air",j214A,"400, 1100",12,"Until Landing",,Dive,special,"Varies [+7 at best]"
+Eltnum,"Slide Air",j214B,"400, 1100",28,"Until Landing",,"Dive, Throw",special,
+Eltnum,"Slide Air",j214C,"400, 275×4, 600",5,"Until landing",,Dive,special,"+8 ~ +2 [+8 at  best]"
+Eltnum,Throw,A+D,1621,4,1,26,Throw,other,
+Eltnum,"Tri Hermes Blackland",A+B+C+D,3750,1+14,2,51,Strike,super,-25
+Eltnum,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Eltnum,"Warning Shot",22A,"800 (1100)",10,2,26,,special,-1
+Eltnum,"Warning Shot",22B,"170×4, 460 [240×4, 550]",17,"28, (1), 2",19,,special,+10
+Enkidu,,214A,1015,4,22,5,Strike,special,16
+Enkidu,,214B,1557,7,10,23,Strike,special,16
+Enkidu,,214C,1572,1+4,27,30,Strike,special,-6
+Enkidu,,214C,2022,1+2,4,24,Strike,special,-7
+Enkidu,,22A,790,16,6,22,Strike,special,-2
+Enkidu,,22B,810,26,6,19,Strike,special,+2
+Enkidu,,22C,1514,1+8,15,20,Strike,special,+4
+Enkidu,,22[B],1050,38,6,17,Strike,special,+8
+Enkidu,,236A,700,11,5,20,Strike,special,-7
+Enkidu,,236B,700,14,5,20,Strike,special,-7
+Enkidu,,236C,1972,1+7,8,36,Strike,special,"-3 to +1"
+Enkidu,,236X~6A,900,11,2,29,Strike,special,-5
+Enkidu,,236X~6AA,1250,16,12(6)8,34,Strike,special,-22
+Enkidu,,236X~6B/C,900,12,2,23,Strike,special,-7
+Enkidu,,236X~6B/C~6B/C,1100,12,4,38,Strike,special,-24
+Enkidu,,236[B],1400,21,5,23,Strike,special,"-10 to -7"
+Enkidu,,2A,160,6,2,14,"Strike, Foot",normal,-3
+Enkidu,,2B,510,8,4,21,Strike,normal,-9
+Enkidu,,2C,720,12,3,32,"Strike, Foot",normal,-13
+Enkidu,,2CC,900,7,4,22,Strike,normal,-8
+Enkidu,,2CCC,1200,20,5,23,Strike,normal,-8
+Enkidu,,2[C],850,25,4,37,"Strike, Foot",normal,-18
+Enkidu,,360C,1612,8+2,,,Throw,special,
+Enkidu,,3C,640,15,4,27,Strike,normal,-13
+Enkidu,,3[C],850,30,4,29,Strike,normal,-15
+Enkidu,,4C,710,11,5,24,Strike,normal,-4
+Enkidu,,4[C],960,20,5,27,Strike,normal,-5
+Enkidu,,5A,390,6,2(6)2,11,Strike,normal,-1
+Enkidu,,5B,580,9,3,20,Strike,normal,-7
+Enkidu,,5BB,900,11,4,15,Strike,normal,-2
+Enkidu,,5BBB,1100,11,3,23,Strike,normal,-6
+Enkidu,,5BBBC,690,11,4,30,Strike,normal,-16
+Enkidu,,5C,690,12,4,30,Strike,normal,-13
+Enkidu,,5CC,900,11,2,29,Strike,normal,-6
+Enkidu,,5CCC,1400,15,4,26,Strike,normal,-10
+Enkidu,,5[C],1807,29,5,32,Strike,normal,-19
+Enkidu,,623A,1287,7,6(6)6,24,Strike,special,-12
+Enkidu,,623B,1550,8,6(6)6,24,Strike,special,"-19 to -10"
+Enkidu,,623C,1812,7,4(10)3(13)3,23,Strike,special,-38
+Enkidu,,66B,690,11,7,9,Strike,normal,"-4 to +2"
+Enkidu,,66C,1048,19,15,22,Strike,normal,"-9 to -3"
+Enkidu,,6C,720,18,4,24,Strike,normal,"-4(Foot), -3 to -2 (Shockwave)"
+Enkidu,,6[C],900,27,4,29,Strike,normal,"-10(Foot), -8 (Shockwave)"
+Enkidu,,j236A,"850 (900)",12,"Until land",,"Strike, Dive",special,"+0 (max range) ~ -2, (+1~+4)"
+Enkidu,,j236B,"850 (900)",14,"Until land",,"Strike, Dive",special,"+0 (max range) ~ -2, (+1~+4)"
+Enkidu,,j236C,"1400 (1450)",1+8,"Until land",,"Strike, Dive",special,"+4 ~ +6 (max range), (+4~+8)"
+Enkidu,,jA,150,7,4,14,"Strike, Head",normal,Varies
+Enkidu,,jB,520,11,3,15,"Strike, Head",normal,Varies
+Enkidu,,jC,620,12,4,20,"Strike, Head",normal,Varies
+Enkidu,,jCC,680,11,3,27,"Strike, Head",normal,Varies
+Enkidu,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Enkidu,"Demon Seal: Abyssal Force",A+B+C+D,3750,1+14,2,51,Strike,super,-25
+Enkidu,"Demonic Formation",6B+C,820,18,4,17,Strike,other,-4
+Enkidu,"Demonic Formation (Increase)",6[B+C],930,43,5,18,Strike,other,-6
+Enkidu,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Enkidu,"Smart Steer",5A+B,1656,,,,Strike,other,-4
+Enkidu,"Spiral Dual Palm Strike",41236D,"1st hit connects: 3520&lt;br&gt;Fireball: 2112",8,"1 (1st hit)",51,Strike,super,"-17 to +39"
+Enkidu,Throw,A+D,1610,4,1,22,Throw,other,"+30 (KD)"
+Enkidu,"Tidal Spin",B+C,"1406, Havoc: 1927",10,23,42,Strike,other,-32
+Enkidu,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Gordeau,,2A,180,6,3,11,Strike,normal,-2
+Gordeau,,2B,500,8,4,16,"Strike, Foot",normal,-4
+Gordeau,,2C,"360, 390 (726 total)",8,"3, 6",22,"Strike, Foot",normal,-10
+Gordeau,,3C,620,11,12,11,"Strike, Foot",normal,-5~+6
+Gordeau,,3[C],710,17,13,12,"Strike, Foot",normal,-7~+5
+Gordeau,,4B,530,10,2,16,Strike,normal,-2
+Gordeau,,5A,180,6,2,12,"Strike, Foot, Light Foot",normal,-1
+Gordeau,,5B,510,9,4,17,Strike,normal,0
+Gordeau,,5C,690,16,4,28,Strike,normal,-14
+Gordeau,,5[C],950,30,6,37,Strike,normal,-22
+Gordeau,,66B,660,10,2,12,Strike,normal,-2
+Gordeau,,66C,980,11,12,12,Strike,normal,-8~+3
+Gordeau,,6B,630,27,5,19,Strike,normal,-6
+Gordeau,,A+D,1510,4,3,24,Throw,other,+19
+Gordeau,,A+D~[2],1450,4,3,24,Throw,other,+9
+Gordeau,,jA,140,8,5,12,"Strike, Head",normal,Varies
+Gordeau,,jB,"350, 350 (675 total)",8,"2, 5",23,"Strike, Head",normal,Varies
+Gordeau,,jC,610,13,4,72,"Strike, Head",normal,Varies
+Gordeau,,j[C],770,21,5,71,"Strike, Head",normal,Varies
+Gordeau,Assimilation,236X~6X~4X,,,,,Throw,special,
+Gordeau,Assimilation,236X~6X~6X,1600,16,4,30,Throw,special,+14
+Gordeau,"Assimilation (A)",214A,1200,12,1,32,Throw,special,+14
+Gordeau,"Assimilation (B)",214B,1500,8,6,22,Throw,special,+16
+Gordeau,"Assimilation (C)",214C,1600,4+9,1,29,Throw,special,+28
+Gordeau,"Beheading Trim",66B+C,870,"14 (Combo) 30 (Neutral)",8/2,23,Strike,other,-2
+Gordeau,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Gordeau,"Downward Claws",623A~6X,825,23,,28,Strike,special,-12
+Gordeau,"Downward Claws",623B~6X,956,27,3,33,Strike,special,-17
+Gordeau,"Grim Reaper (A)",623A,1345,12,"6, 3",24,Strike,special,-6
+Gordeau,"Grim Reaper (B)",623B,1415,9,"6, 3",28,Strike,special,-15
+Gordeau,"Grim Reaper (C)",623C,1851,4+3,"6, 3, 6, 4",32,Strike,special,-18
+Gordeau,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Gordeau,"Mortal Glide (A)",j236A,1575,7,"2, 8",,"Strike (First Hit), Projectile",special,-6
+Gordeau,"Mortal Glide (B)",j236B,1575,7,"2, 8",,"Strike (First Hit), Projectile",special,-12
+Gordeau,"Mortal Glide (C)",j236C,2022,4+10,8,,Projectile,special,+8
+Gordeau,"Mortal Slide (A)",236A,1434,16,"4, 6",15,Strike,special,-3
+Gordeau,"Mortal Slide (B)",236B,1434,19,"4, 6",17,Strike,special,-5
+Gordeau,"Mortal Slide (C)",236C,2039,1+13,"2, 3",27,Strike,special,+7
+Gordeau,"Precise Aim (A)",22A,550,21,3,15,Strike,special,+7
+Gordeau,"Precise Aim (Air A)",j214A,625,12,17,,Strike,special,+2
+Gordeau,"Precise Aim (Air B)",j214B,1170,13,"12, 3",28,Strike,special,-5
+Gordeau,"Precise Aim (Air C)",j214C,1353,4+3,"36, 5",28,Strike,special,-7
+Gordeau,"Precise Aim (B)",22B,1484,14,"4, 19, 5",34,Strike,special,-9
+Gordeau,"Precise Aim (C)",22C,2005,4+5,"5, 46, 6",35,Strike,special,-23
+Gordeau,"Rusty Nail",B+C,"396*3 (1080)",21,4,23,Projectile,other,+1
+Gordeau,"Rusty Nail",B+C,"500*3 (1365)",18,4,23,Projectile,other,+1
+Gordeau,"Shadow Harvest",236X~6X,850,9,2,27,Strike,special,-6
+Gordeau,"Soul Exodus",A+B+C+D,3820,1+14,2,51,Strike,super,-25
+Gordeau,Turbulence,41236D,3095,1+12,"3, 3, 4, 6, 5, 3, 3, 3",19,Strike,super,-4
+Gordeau,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Hilda,,2A,120,6,2,13,"Strike, Foot",normal,-3
+Hilda,,2B,490,13,4,22,Strike,normal,-8
+Hilda,,2C,490,14,3,29,Strike,normal,-14
+Hilda,,2CC,420,16,3,32,Strike,normal,-12
+Hilda,,3B,480,11,2,24,Strike,normal,-8
+Hilda,,3C,490,11,3,21,Strike,normal,-6
+Hilda,,3CC,420,16,3,32,Strike,normal,-11
+Hilda,,5A,200,8,2,12,Strike,normal,-2
+Hilda,,5B,490,11,3,29,Strike,normal,-14
+Hilda,,5BB,920&lt;br&gt;(250+237+225+212),12,8,32,Strike,normal,-15
+Hilda,,5C,620,15,3,38,Strike,normal,-13
+Hilda,,5CC,460,24,1,24,Strike,normal,0
+Hilda,,5[C],1200,33,15,38,Strike,normal,-6
+Hilda,,66B,945&lt;br&gt;(260+244+228+213),12,11,25,Strike,normal,-7
+Hilda,,66C,981&lt;br&gt;(270+253+237+221),13,11,32,Strike,normal,-11
+Hilda,,j2C,720,15,"until landing","11 (TK)","Strike, Dive",normal,-13~+1
+Hilda,,jA,140,8,2,19,"Strike, Head",normal,Varies
+Hilda,,jB,430,10,3,24,"Strike, Head",normal,Varies
+Hilda,,jB+C,1368&lt;br&gt;(505+494+409),15,9,28,"Strike, Head",other,-8
+Hilda,,jC,540,16,5,16,"Strike, Head",normal,Varies
+Hilda,,jCC,420,15,4,22,"Strike, Head",normal,Varies
+Hilda,,j[B]+[C],1449&lt;br&gt;(535+481+433),24,12,35,"Strike, Head",other,-17
+Hilda,,j[C],"833 (320 + 513)",21,4(8)7,"Until landing (on whiff/shield)","Strike, Head",normal,Varies
+Hilda,,[B]+[C],1449&lt;br&gt;(535+481+433),23,12,35,Strike,other,-15
+Hilda,Antidispersive,236B+C,"2564 (6 hits)",1+19,,,"Strike, Projectile",special,16~32
+Hilda,"Backdash Teleport",44~7A+B,,,,,,special,
+Hilda,"Condensity Gloom",214A,"1904 (8 hits)&lt;br&gt;(266+258+250+242+&lt;br&gt;234+226+218+210)",82,,,Projectile,special,~+74
+Hilda,"Condensity Gloom",214B,"2486 (11 hits)",86,,,Projectile,special,~+77
+Hilda,"Condensity Gloom",214C,"2976 (25 hits)",77,,,Projectile,special,~+144
+Hilda,"Condensity Gloom",j214A,"1904 (8 hits)&lt;br&gt;(266+258+250+242+&lt;br&gt;234+226+218+210)",82,,,Projectile,special,~+76
+Hilda,"Condensity Gloom",j214B,"2486 (11 hits)",86,,,Projectile,special,~+80
+Hilda,"Condensity Gloom",j214C,"2976 (25 hits)",77,,,Projectile,special,~+146
+Hilda,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Hilda,"Dismal Sign",421A,,,,,,special,
+Hilda,"Dismal Sign",421B,,,,,,special,
+Hilda,"Dismal Sign",421C,"1983(13 hits)",40,,,,special,4
+Hilda,"Dismal Sign",j421A,,,,,,special,
+Hilda,"Dismal Sign",j421B,,,,,,special,
+Hilda,"Dismal Sign",j421C,"1983(13 hits)",41,,,,special,4
+Hilda,Domination,j44,,,,,,special,
+Hilda,"Fallen Pain",]X[,1210&lt;br&gt;(990+220),"Stand: 24&lt;br&gt;Crouch: 25&lt;br&gt;Air: 14",17,,Projectile,special,-3~-4
+Hilda,"Fallen Pain",]X[,660,"Standing: 26~28&lt;br&gt;Crouching: 27~29&lt;br&gt;Air: 18",17,,Projectile,special,-3~-4
+Hilda,"Fallen Pain",]X[,770,"Standing: 24~26&lt;br&gt;Crouching: 25~27&lt;br&gt;Air: 16",17,,Projectile,special,-3~-4
+Hilda,"Fallen Pain",]X[,880,"Standing: 25&lt;br&gt;Crouch: 26&lt;br&gt;Air: 15",17,,Projectile,special,-3~-4
+Hilda,"Fallen Pain",]X[,880~1674,"Stand: 24&lt;br&gt;Crouch: 25&lt;br&gt;Air: 14",17,,Projectile,special,-3~-4
+Hilda,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Hilda,Impalement,41236D,3461,1+11,5,54,Strike,super,-41
+Hilda,"In the Darkness",A+B+C+D,3880,1+14,2,51,Strike,super,-25
+Hilda,Interference,623A,720,15,3,20,Strike,special,-4
+Hilda,Interference,623B,920,37,3,9,Strike,special,13
+Hilda,Interference,623C,1800,1+11,3,19,Strike,special,-3
+Hilda,"Nail Torrent",j236B+C,"2862 (15 hits)",1+29,,35,Strike,special,+51~60
+Hilda,"Revenant Pillar",22A,880,15,3,17,Strike,special,-8
+Hilda,"Revenant Pillar",22B,880,15,3,17,Strike,special,-8
+Hilda,"Revenant Pillar",22C,1880,11,3,27,Strike,special,-2
+Hilda,"Shadow Awaits",214B+C,"1764 (3 hits)&lt;br&gt;(666+586+512)",,840,28,Projectile,special,+82
+Hilda,Skewer,236A,880,16,8,24,Projectile,special,-10
+Hilda,Skewer,236B,880,31,8,8,Projectile,special,6
+Hilda,Skewer,236C,1520,1+11,8,25,Projectile,special,-4
+Hilda,Skewer,j236A,880,18,8,,Projectile,special,-x~-9
+Hilda,Skewer,j236B,880,35,8,,Projectile,special,-x~+5
+Hilda,Skewer,j236C,1520,1+10,8,,Projectile,special,7
+Hilda,"Steer Ender",5A+B,,,,,Strike,other,-12
+Hilda,Throw,A+D,1605,4,1,26,Throw,other,+41(hit)
+Hilda,Tri-Furket,B+C,1368&lt;br&gt;(505+454+409),15,9,28,Strike,other,-6
+Hilda,"Tri-Furket (Variant)",B+C~2A,700,8+17(25),3,20,Strike,other,-6~-5
+Hilda,"Tri-Furket (Variant)",B+C~A,700,8+7(15),2,18,Strike,other,-x~-2
+Hilda,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Hyde,,2A,150,5,2,12,Foot,normal,-2
+Hyde,,2B,490,10,4,14,Strike,normal,-2
+Hyde,,2C,620,12,5,17,Foot,normal,-6
+Hyde,,3B,540,9,3,,Foot,normal,-9
+Hyde,,3C,780,9,2,,Strike,normal,-7
+Hyde,,5A,200,7,3,15,Strike,normal,-6
+Hyde,,5B,570,9,4,18,Strike,normal,-6
+Hyde,,5C,690,12,5,19,Strike,normal,-6
+Hyde,,5[C],780,23,5,17,Strike,normal,+1
+Hyde,,66B,620,10,4,,Strike,normal,-2
+Hyde,,66C,810,15,3,,Strike,normal,-8
+Hyde,,6B,1030,8,"2 (10) 2",,Strike,normal,-5
+Hyde,,j2C,573,14,3,,Head,normal,Varies
+Hyde,,j6C,510,12,4,,Head,normal,Varies
+Hyde,,jA,176,9,8,,Head,normal,Varies
+Hyde,,jB,410,11,2,,Head,normal,Varies
+Hyde,,jC,580,13,3,,Head,normal,Varies
+Hyde,,j[C],750,21,3,,Head,normal,Varies
+Hyde,"Black Orbiter (A)",236A,810,13,"Until Hit",,Projectile,special,-7
+Hyde,"Black Orbiter (B)",236B,810,11,"Until Hit",,Projectile,special,-11
+Hyde,"Black Orbiter (C)",236C,330×7,4+4,"Until Hit",,Projectile,special,+28
+Hyde,"Blaring Outrage",2B+C,921,14,Varies,,Projectile,other,-12
+Hyde,"Blaring Outrage (Increase)",2[B]+[C],1298,14,Varies,,Projectile,other,-2
+Hyde,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Hyde,"Dark Lotus",236X~6A;/;236A,552,14,15,,Projectile,special,-3
+Hyde,"Dark Lotus (Air) (A)",j236A,1292,9,,,"Strike (first hit), Projectile",special,+14
+Hyde,"Dark Lotus (Air) (B)",j236B,1292,9,,,"Strike (first hit), Projectile",special,+14
+Hyde,"Dark Lotus (Air) (EX)",j236C,1707,4+10,,,Projectile,special,+24
+Hyde,"Dark Lotus Anthesis",236X~236C;/;646C,1654,4+4,15,,Projectile,special,+9~+11
+Hyde,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Hyde,"Gyro Vortex",41236D,"400, 320×10",1+7,,,Strike,super,-18
+Hyde,"Raging Roar",A+B+C+D,3760,1+14,2,51,Strike,super,-25
+Hyde,"Red-Clad Craver (A)",623A,1433,5,9,,Strike,special,-24
+Hyde,"Red-Clad Craver (B)",623B,1763,6,11,55,Strike,special,-27
+Hyde,"Red-Clad Craver (EX)",623C,2016,4+1,13,,Strike,special,-38
+Hyde,"Shadow Scare (A)",22A,1518,11,,,"Strike (first hit), Projectile (eruption)",special,-6
+Hyde,"Shadow Scare (B)",22B,1537,22,,,"Strike (first hit), Projectile (eruption)",special,"+1 (Eruption), -8 (Sword stab only)"
+Hyde,"Shadow Scare (EX)",22C,1838-2023,4+10,,,"Strike (first hit), Projectile (eruption)",special,+13~+85
+Hyde,"Sinister Bend",236X~6B;/;236B,980,22,2,31,Strike,special,-8
+Hyde,"Steer Ender",A+B,"810, 910",8,3(12)4,18,Strike,other,-4
+Hyde,"Strict Daze",B+C,1250,20,5,,Strike,other,-11
+Hyde,"Strict Daze (Increase)",[B]+[C],1450,32,5,,Strike,other,-11
+Hyde,"Strict Daze (Increase, Vorpal)",[B]+[C],1705,30,5,,Strike,other,-6
+Hyde,"Strict Daze (Vorpal)",B+C,1485,20,5,,Strike,other,-6
+Hyde,Throw,A+D,1420,4,3,,Throw,other,+42
+Hyde,"Vacant Shift (EX)",214C,2190,4+1,6,,Strike,special,-6~-11
+Hyde,"Vacant Shift - First (A)",214A,450,11,4,,Strike,special,-21
+Hyde,"Vacant Shift - First (B)",214B,450,11,4,,Strike,special,-30
+Hyde,"Vacant Shift - Second",214X~4X,600,,3,,Strike,special,+1~-12
+Hyde,"Vacant Shift - Third",214X~4X~4X,950,,4,,Strike,special,-9~-14
+Hyde,"Veil Bringer",236B+C,2077,4+3,,,Strike,special,-29
+Hyde,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Izumi,,2A,150,5,2,,"Strike, Foot",normal,-2
+Izumi,,2B,490,9,5,,"Strike, Foot",normal,-7
+Izumi,,2C,620,12,3,,"Strike, Foot",normal,-10
+Izumi,,3C,680,9,4,,Strike,normal,-11
+Izumi,,5A,180,5,2,,Strike,normal,-2
+Izumi,,5B,510,8,3,,Strike,normal,-5
+Izumi,,5BB,490,13,2,,Strike,normal,-10
+Izumi,,5BBB,800,16,4,,Strike,normal,-9
+Izumi,,5C,690,10,4,,Strike,normal,-9
+Izumi,,5CC,800,13,4,,Strike,normal,-9
+Izumi,,5[C],780,23,2,,Strike,normal,-24
+Izumi,,66B,940,11,"2, (2), 4",,Strike,normal,-5~-6
+Izumi,,66C,1014,19,"9, (9), 2",,Strike,normal,-9
+Izumi,,jA,140,7,4,,"Strike, Head",normal,Varies
+Izumi,,jB,420,11,3,,"Strike, Head",normal,Varies
+Izumi,,jC,590,12,4,,"Strike, Head",normal,Varies
+Izumi,,j[B],610,16,3,,"Strike, Head",normal,Varies
+Izumi,,j[C],750,19,4,,"Strike, Head",normal,Varies
+Izumi,"Amaaazing Ocean Flow",41236D,2925,1+7,,,Strike,super,"-34 ~ -15"
+Izumi,"And Then ~ Do a Somersault!",★~C,1008,19,12,,Strike,other,-4
+Izumi,"Aqua Splash",236A,760,11,4,,Strike,special,-8
+Izumi,"Aqua Splash",236B,760,15,4,,Strike,special,-6
+Izumi,"Aqua Splash",236C,1658,4+9,"15, 21",,Projectile,special,"+6 ~ +21"
+Izumi,"Aqua Splash",236[B],901,21,25,,Projectile,special,"-5 ~ +17"
+Izumi,"Aqua Splash Again",236A~X,820,,4,,Strike,special,-9
+Izumi,"Aqua Splash Again",236B~X,820,,4,,Strike,special,-11
+Izumi,"Aqua Splash Again",236B~[B],830,,,,Strike,special,-6
+Izumi,"Bubbly Breath",214A,718,12,21,,"Strike, Projectile",special,"-7 ~ +8"
+Izumi,"Bubbly Breath",214B,867,27,21,,"Strike, Projectile",special,"+11 ~ +27"
+Izumi,"Bubbly Breath",214C,1380,4+11,,,"Strike, Projectile",special,"+1~+28 (first hit)&lt;br&gt;+28 (second hit)"
+Izumi,"Bubbly Breath",214[B],720,27,,,"Strike, Projectile",special,"-3 ~ +28"
+Izumi,"C&#039;mere, Elefee!",B+C,840,15,4,,,other,-20
+Izumi,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Izumi,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Izumi,"Help Me, Elefee!",6B+C,,10,-,,,other,
+Izumi,"Help Me, Elefee!",6[B]+[C],,,,,,other,
+Izumi,"Help Me, Elefee!",j6B+C★,,,,,,other,
+Izumi,"I&#039;ll Handle This Myself!",j236A,1254,9,"7, (14), 18, (2), 2",,Strike,special,-1
+Izumi,"I&#039;ll Handle This Myself!",j236B,1454,9,"6, (12), 7, (14), 18",,Strike,special,-8
+Izumi,"I&#039;ll Handle This Myself!",j236C,2042,4+2,"6, (12), 7, (14), 8",,Strike,special,+2
+Izumi,"Keep Going ~ and Splash!",★~A,650,16,2,,Strike,other,+1
+Izumi,"Lots of Bubbly Breath",214B+C,1969,4+6,25,,"Strike, Projectile",special,"+25 ~ +49"
+Izumi,"Plumey Whirlpool",A+B+C+D,3760,1+14,2,51,Strike,super,-25
+Izumi,"Smart Steer Ender",5A+B,,13,"3, (12), 4",,Strike,other,-4
+Izumi,"Surf&#039;s Up!",★~B,1040,15,12,,Strike,other,+1~+12
+Izumi,Throw,A+D,1418,4,1,,Throw,other,+22
+Izumi,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Izumi,Waterfall,22A,"855 (Both Hits)&lt;br&gt;650 (Dive)&lt;br&gt;410 (Rising)",25-26,"5, (63), 6",,Strike,special,"-7~-6 (Dive)&lt;br&gt;+24 (Rising)"
+Izumi,Waterfall,22B,"905 (Both Hits)&lt;br&gt;700 (Dive)&lt;br&gt;410 (Rising)",27,"5, (63), 6",,Strike,special,"-6~-3 (Dive)&lt;br&gt;+24 (Rising)"
+Izumi,Waterfall,22C,"1954 (Both Hits)&lt;br&gt;750 (Dive)&lt;br&gt;1377(Rising)",4+12,"5, (62), 17",,Strike,special,"-5~-1 (Dive)&lt;br&gt;+40(Rising)"
+Kaguya,,2A,150,5,2,12,"Strike, Light Foot",normal,-2
+Kaguya,,2B,450x2,8,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;3,2&quot;&gt;5&lt;/span&gt;",24,Strike,normal,-10
+Kaguya,,2C,"260, 430",9,"3 (10) 3",25,"Strike, Foot",normal,-10
+Kaguya,,3C,620,14,2,26,Strike,normal,-6
+Kaguya,,3C~66/44,,,,,,normal,-20
+Kaguya,,3C~A,710,4,3,23,Strike,normal,-10
+Kaguya,,3C~B,"260, 430",8,"3 (11) 4",20,Strike,normal,-6
+Kaguya,,3C~C,"598 (702x2)","21 (88)","2 (15)",39,"Strike, (Projectile)",normal,
+Kaguya,,4B,620,8,4,24,Strike,normal,-8
+Kaguya,,5A,190,6,2,12,Strike,normal,-2
+Kaguya,,5B,490,8,2,20,Strike,normal,-6
+Kaguya,,5BB,490,17,3,30,Strike,normal,-8
+Kaguya,,5C,790,10,3,22,Strike,normal,-7
+Kaguya,,66B,670,10,12,13,"Strike, Foot",normal,"-7 ~ +4"
+Kaguya,,66C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;380x3&quot;&gt;1093&lt;/span&gt;",24,4,29,Projectile,normal,+9
+Kaguya,,6C,620,18,8,15,Strike,normal,"-5 ~ +2"
+Kaguya,,B+C~6X,950,"12 [10]","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;2,1&quot;&gt;3&lt;/span&gt;",45,Projectile,other,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;-16 on the second hitbox&quot;&gt;-18&lt;/span&gt;"
+Kaguya,,B+C~X,880,"11 [9]",3,31,Strike,other,-16
+Kaguya,,j.236X~7/8/9,,,,,,special,
+Kaguya,,j2C,570,13,4,31,"Strike, Head",normal,Varies
+Kaguya,,jA,140,8,3,15,"Strike, Head",normal,Varies
+Kaguya,,jB,420,9,3,27,"Strike, Head",normal,Varies
+Kaguya,,jBB,610,16,3,16,"Strike, Head",normal,Varies
+Kaguya,,jC,590,12,3,35,"Strike, Head",normal,Varies
+Kaguya,,j[C],770,19,3,35,"Strike, Head",normal,Varies
+Kaguya,"A Bloom in the Darkess: Lunar Blossom",214A,"598 (702x2)","22 (88)","2 (15)",31,"Strike (Projectile)",special,
+Kaguya,"A Bloom in the Darkess: Lunar Blossom",214B,"598 (702x2)","24 (85)","2 (15)",35,"Strike (Projectile)",special,"+35 ~ +56"
+Kaguya,"A Bloom in the Darkess: Lunar Blossom",214C,"598 (1273x2)","4+11 (4+39)","2 (15)",30,"Strike (Projectile)",special,"+35 ~ +51"
+Kaguya,"A Bloom in the Darkess: Lunar Blossom",214[B],"598 (702x2)","32 (91)","2 (15)",30,"Strike (Projectile)",special,"+35 ~ +51"
+Kaguya,"A Bloom in the Darkess: Lunar Blossom (Air)",j.214A,"598 (702x2)","18 (87)","2 (15)","Until Landing","Strike (Projectile)",special,"+35 ~ +61"
+Kaguya,"A Bloom in the Darkess: Lunar Blossom (Air)",j.214B,"598 (702x2)","21 (89)","2 (15)","Until Landing","Strike (Projectile)",special,"+35 ~ +52"
+Kaguya,"A Bloom in the Darkess: Lunar Blossom (Air)",j.214C,"598 (1273x2)","4+7 (4+38)","2 (15)","Until Landing","Strike (Projectile)",special,"+35 ~ +52"
+Kaguya,"A Fleeting Beam of Light: Moonlight Flash",236A,698,11,2,29,Strike,special,-6
+Kaguya,"A Fleeting Beam of Light: Moonlight Flash",236B,798,15,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;2,4&quot;&gt;6&lt;/span&gt;",26,Projectile,special,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;-7 on the second hitbox&quot;&gt;-9&lt;/span&gt;"
+Kaguya,"A Fleeting Beam of Light: Moonlight Flash",236C,1990,4+8,"4 (22) 4",22,Projectile,special,+9
+Kaguya,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Kaguya,"Dance Elegantly in the Light: Moonlit Palette",41236D,3510,1+8,"3 (8) 5",31,Strike,super,-18
+Kaguya,"Dance Without Rest: Flower of Overflowing Light",B+C,,,,,,other,
+Kaguya,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Kaguya,"Lack Leaves a Hole in the Heart: Rising Crescent",623A,1553,5,"4 (2) 7",24,Strike,special,-16
+Kaguya,"Lack Leaves a Hole in the Heart: Rising Crescent",623B,1677,10,"3 (2) 10",26,Strike,special,-16
+Kaguya,"Lack Leaves a Hole in the Heart: Rising Crescent",623C,2055,4+2,"3 (2) 10",26,Strike,special,-23
+Kaguya,"Moonlight Double Flash",236A~X,698,10,2,30,Strike,special,-7
+Kaguya,"Moonlight Double Flash",236B~X,950,19,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;2,5&quot;&gt;7&lt;/span&gt;",30,Projectile,special,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;-13 on the second hitbox&quot;&gt;-15&lt;/span&gt;"
+Kaguya,"Moonlight Triple Flash",236A~X~X,898,20,2,36,Strike,special,-15
+Kaguya,"O Moon, Reflect the Night: Moonlit Night",A+B+C+D,3750,1+14,2,51,Strike,super,-25
+Kaguya,"Only in Dreams Does One Walk Diaphanous: Hazy Step",j.236A,690,10,2,"Until Landing",Strike,special,
+Kaguya,"Only in Dreams Does One Walk Diaphanous: Hazy Step",j.236B,690,12,3,"Until Landing",Strike,special,
+Kaguya,"Only in Dreams Does One Walk Diaphanous: Hazy Step",j.236C,690,16,4,"Until Landing",Strike,special,
+Kaguya,"Smart Steer",5A+B,1618,9,"3 (8) 3 (17) 3",19,Strike,other,-4
+Kaguya,Throw,A+D,1570,4,3,24,Throw,other,
+Kaguya,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Kuon,,2A,160,6,2,13,Strike,normal,-3
+Kuon,,2B,460,8,8,15,Strike,normal,-7
+Kuon,,2C,640,10,5,20,Strike,normal,-7
+Kuon,,3C,640,8,15,13,Strike,normal,"-10 ~ +4"
+Kuon,,4C,660,15,3,23,Strike,normal,-8
+Kuon,,5A,200,6,2,14,Strike,normal,-4
+Kuon,,5B,490,9,3,19,Strike,normal,-6
+Kuon,,5C,690,12,5,23,Strike,normal,-10
+Kuon,,5[C],780,24,6,17,Strike,normal,-5
+Kuon,,66B,"490×2 (931)",10,3(14)5,15,Strike,normal,-4
+Kuon,,66C,940,27,6,18,Strike,normal,-6
+Kuon,,66~6A+B,,,,,,normal,
+Kuon,,6B,520,11,3,25,Strike,normal,-12
+Kuon,,6B~6B,590,13,4,23,Strike,normal,-11
+Kuon,,6C,"240×4 (852)",25,,,Strike,normal,-5
+Kuon,,j6C,710,13,4,15,Strike,normal,
+Kuon,,jA,140,8,2,16,Strike,normal,
+Kuon,,jB,420,9,4,18,Strike,normal,
+Kuon,,jC,590,12,5,18,Strike,normal,
+Kuon,,j[C],760,20,6,18,Strike,normal,
+Kuon,"Barrier of Isolation",[2]8A,1200,7,12,31,Strike,special,-14
+Kuon,"Barrier of Isolation",[2]8B,1500,12,12,46,Strike,special,-29
+Kuon,"Barrier of Isolation",[2]8C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;490x5&quot;&gt;(1959)&lt;/span&gt;",10,12,57,Strike,special,-38
+Kuon,"Black Scarlet Carving",A+B+C+D,3760,1+14,2,51,Strike,super,-25
+Kuon,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Kuon,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Kuon,"Heavenly Law",B+C,,17,,,,other,
+Kuon,"Heavenly Law",jB+C,,17,,,,other,
+Kuon,"Heavenly Law",[B]+[C],,44,,,,other,
+Kuon,"Heavenly Law (Follow-Up 1)",B+C~D,,12,,,,other,
+Kuon,"Heavenly Law (Follow-Up 2)",B+C~X,,,,,,other,
+Kuon,"Heavenly Law (Increase, Vorpal)",[B]+[C],,,,,,other,
+Kuon,"Heavenly Law (Mantle of Nothingness)",B+C~2B+C,937,28,15,24,Strike,other,"-19 ~ -7"
+Kuon,"Heavenly Law (Void-Piercing Shadow)",B+C~6B+C,1213,15,4,"Until Landing",Projectile,other,"+4 ~ -10"
+Kuon,"Heavenly Law (Vorpal)",B+C,,,,,,other,
+Kuon,"Heavenly Law (Whirlpool of Omens)",B+C~4B+C,940,35,,,Projectile,other,+36
+Kuon,"Mantle of Nothingness",623A,,22,2,22,Strike,special,-6
+Kuon,"Mantle of Nothingness",623B,,29,7,19,Strike,special,"-5 ~ -2"
+Kuon,"Mantle of Nothingness",623C,,23,4,34,Strike,special,-18
+Kuon,"Mantle of Nothingness (Air)",j623A,,28,15,23,Strike,special,"-20 ~ -9"
+Kuon,"Mantle of Nothingness (Air)",j623B,,39,5,23,Strike,special,-10
+Kuon,"Mantle of Nothingness (Air)",j623C,,26,4,34,Strike,special,-18
+Kuon,"Smart Steer",5A+B,,,,,Strike,other,
+Kuon,"The Silent Orchard of the Abyss",41236D,3442,15,6,55,Strike,super,-32
+Kuon,Throw,A+D,1635,4,,,,other,
+Kuon,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Kuon,"Void-Piercing Shadow",236A,818,12,4,29,Projectile,special,-7
+Kuon,"Void-Piercing Shadow",236B,870,20,4,29,Projectile,special,-7
+Kuon,"Void-Piercing Shadow",236C,1769,10,8,24,Projectile,special,"-1 ~ +3"
+Kuon,"Void-Piercing Shadow (Air)",j236A,,13,4,"Until Landing",Projectile,special,
+Kuon,"Void-Piercing Shadow (Air)",j236B,,21,4,"Until Landing",Projectile,special,
+Kuon,"Void-Piercing Shadow (Air)",j236C,,10,8,"Until Landing",Projectile,special,
+Kuon,"Vortex of Chaos",22A,,14,12,20,Projectile,special,-6
+Kuon,"Vortex of Chaos",22B,,14,12,18,Projectile,special,-4
+Kuon,"Vortex of Chaos",22C,,19,24,8,Projectile,special,+12
+Kuon,"Vortex of Chaos",236A~X,980,14,12,27,Projectile,special,-6
+Kuon,"Vortex of Chaos",236B~X,980,14,12,27,Projectile,special,-4
+Kuon,"Vortex of Chaos",j236X~X,,14,12,"Until Landing",Projectile,special,
+Kuon,"Vortex of Chaos (Air)",j22A,,18,12,11,Projectile,special,+3
+Kuon,"Vortex of Chaos (Air)",j22B,,18,12,11,Projectile,special,+3
+Kuon,"Vortex of Chaos (Air)",j22C,,19,24,"Until Landing",Projectile,special,"-1 ~ +20"
+Kuon,"Whirlpool of Omens",214A,,34,,,Projectile,special,+19
+Kuon,"Whirlpool of Omens",214B,,25,,,Projectile,special,+18
+Kuon,"Whirlpool of Omens",214C,,15,,,Projectile,special,+60
+Kuon,"Whirlpool of Omens (Increase)",214[A],,40,,,Projectile,special,+25
+Linne,,2A,160,5,2,12,Strike,normal,-2
+Linne,,2AA,160,5,2,12,"Strike, Foot",normal,-2
+Linne,,2B,410,8,2,,"Strike, Foot",normal,-6
+Linne,,2C,600,11,6,22,"Strike, Foot",normal,-10
+Linne,,5A,185,5,2,12,Strike,normal,-2
+Linne,,5B,410,6,4,13,Strike,normal,-2
+Linne,,5C,695,12,5,21,Strike,normal,-7
+Linne,,5CC,550,13,3,19,Strike,normal,-5
+Linne,,5C[C],800,25,3,23,Strike,normal,-9
+Linne,,66B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;300x3&quot;&gt;(816)&lt;/span&gt;",9,3,12,Strike,normal,-1
+Linne,,66C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;300x2, 500&quot;&gt;(932)&lt;/span&gt;",12,4,19,Strike,normal,-4
+Linne,,6B,420,7,2,18,Strike,normal,-4
+Linne,,j2B,330,13,"until landing",,"Strike, Head",normal,0~-9
+Linne,,j6B,390,9~14,4,,"Strike, Head",normal,-10~+8
+Linne,,j6[B],470,16,5,14,"Strike, Head",normal,-8~+14
+Linne,,jA,130,7,2,,"Strike, Head",,-2~+9
+Linne,,jB,390,8,3,,"Strike, Head",normal,-4~+12
+Linne,,jC,570,12,4,,"Strike, Head",normal,-7~+13
+Linne,"Chaotic Mist",214C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;193x7, 1050&quot;&gt;(2033)&lt;/span&gt;",4+3,4(12)3(8)2(8)2(7)2(4)3(4)5,7,Strike,special,+4
+Linne,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Linne,"Dancing Leaf",X~66,-,-,-,26,-,special,-
+Linne,"Dancing Wings",j236X~66,-,,,,-,special,-
+Linne,"Divine Blaze",A+B+C+D,3810,1+14,2,51,Strike,super,-25
+Linne,"Divine Chains",B+C~X,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;320, 280x2, 418&quot;&gt;(1298)&lt;/span&gt;","10&lt;br&gt;&#039;&#039;&#039;Successful Dodge:&#039;&#039;&#039; 3",2,28,Strike,other,-14
+Linne,"Dragon Fang (A)",j63214A,1080,24,3,26,Dive,special,-2
+Linne,"Dragon Fang (B)",j63214B,1080,24,3,27,Dive,special,-3
+Linne,"Dragon Fang (C)",j63214C,1720,4+9,3,24,Dive,special,+1
+Linne,"Elusive Flash",B+C,-,-,-,,,other,-
+Linne,"Elusive Flash",B+C,-,-,-,,,other,-
+Linne,"Fifth Scattering",214X~B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;320x2, 450&quot;&gt;(1090)&lt;/span&gt;",8,2(9)3(10)4,17,Strike,special,-5
+Linne,"Flying Swallow (A)",22A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;580x2&quot;&gt;(1049)&lt;/span&gt;",23,3,20,Strike,special,-3
+Linne,"Flying Swallow (B)",22B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;660x2&quot;&gt;(1181)&lt;/span&gt;",26,3,19,Strike,special,-3
+Linne,"Flying Swallow (Increase)",22[B],"240, 420","34&lt;br/&gt;&#039;&#039;&#039;Hitstun:&#039;&#039;&#039; 20",7(7)4,15,Strike,special,-9
+Linne,"Fourth Scattering",214X~A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;320x2&quot;&gt;(640)&lt;/span&gt;",8,1(11)3,16,Strike,special,-1
+Linne,"Ghastly Wail",236X~B+C,1060,23,4,23,Strike,special,-1~+1
+Linne,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Linne,"Moon Gyre (A)",623A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;600, 810&quot;&gt;(1369)&lt;/span&gt;",5,8,29,Strike,special,-15
+Linne,"Moon Gyre (B)",623B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;280x5, 280&quot;&gt;(1568)&lt;/span&gt;",6,11(13)1,38,Strike,special,-36
+Linne,"Rending Moon Gyre",623C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;170x4, 170x3, 250x3&quot;&gt;(1826)&lt;/span&gt;",4+1,12(9)5,48,Strike,special,-49
+Linne,"Sixth Scattering",214X~C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;320x3, 450&quot;&gt;(1410)&lt;/span&gt;",8,2(9)3(10)4(10)2,23,Strike,special,-9
+Linne,"Sky Fang (Air A)",j236A,810,21,10,,"Strike, Projectile",special,"+6~+15&lt;br&gt;&#039;&#039;&#039;Air dash cancel:&#039;&#039;&#039; -35~-19&lt;br&gt;"
+Linne,"Sky Fang (Air B)",j236B,810,18~26,10,,"Strike, Projectile",special,"+3~+12&lt;br&gt;&#039;&#039;&#039;Air dash cancel:&#039;&#039;&#039; -35~-22&lt;br&gt;&#039;&#039;&#039;Maximum delay:&#039;&#039;&#039; +11~+20"
+Linne,"Sky Fangs (A)",236A,810,21,10,14,"Strike, Projectile",special,"-2~+7&lt;br&gt;&#039;&#039;&#039;Dash cancel:&#039;&#039;&#039; -7~+2&lt;br&gt;&#039;&#039;&#039;Roll cancel:&#039;&#039;&#039; -10~-1"
+Linne,"Sky Fangs (Air Increase)",j236[B],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;620x2&quot;&gt;(985)&lt;/span&gt;",30,5(4)4,,"Strike, Projectile",special,"+7&lt;br&gt;&#039;&#039;&#039;Air dash cancel:&#039;&#039;&#039; -26"
+Linne,"Sky Fangs (B)",236B,810,12~16,10,24,"Strike, Projectile",special,"-12~-3&lt;br&gt;&#039;&#039;&#039;Dash cancel:&#039;&#039;&#039; -7~+2&lt;br&gt;&#039;&#039;&#039;Roll cancel:&#039;&#039;&#039; -10~-1"
+Linne,"Sky Fangs (Increase)",236[B],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;620x2&quot;&gt;(985)&lt;/span&gt;",25,5(2)4,,"Strike, Projectile",special,"-4&lt;br&gt;&#039;&#039;&#039;Dash cancel:&#039;&#039;&#039; -2&lt;br&gt;&#039;&#039;&#039;Roll cancel:&#039;&#039;&#039; -5"
+Linne,"Soaring Dragon",66B+C,810,11,5,16,Strike,other,-4
+Linne,"Soaring Swallow",22C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;400x3, 810&quot;&gt;(2010)&lt;/span&gt;",4+15,4,20,Strike,special,-8
+Linne,"Steer Ender",5A+B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;480x2, 1180&quot;&gt;(1663)&lt;/span&gt;",4+4,5(21)4,18,Strike,other,-4
+Linne,"Tenacious Mist (A)",214A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;408x2&quot;&gt;(816)&lt;/span&gt;",9,1(9)4,12,Strike,special,-1
+Linne,"Tenacious Mist (B)",214B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;418x2&quot;&gt;(836)&lt;/span&gt;",11,1(11)3,16,Strike,special,-5
+Linne,"The Diviner",41236D,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;440x4, 250x3, 440, 135x16&quot;&gt;(3566)&lt;/span&gt;",1+7,"14, (8), 8, (8), 8, (8), 19, (17), 6, (9), 80",,Strike,super,+31
+Linne,Throw,A+D,1635,4,3,24,Throw,other,"+16 (on hit)"
+Linne,"Twin Sky Fangs",236C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;510x5&quot;&gt;(1734)&lt;/span&gt;",4+11,15,3,"Strike, Projectile",special,"+27~+54&lt;br&gt;&#039;&#039;&#039;Dash cancel:&#039;&#039;&#039; +27~+47&lt;br&gt;&#039;&#039;&#039;Roll cancel:&#039;&#039;&#039; +32~+44"
+Linne,"Twin Sky Fangs (Air)",j236C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;510x5&quot;&gt;(1734)&lt;/span&gt;",4+7,15,,"Strike, Projectile",special,"+14~+67&lt;br&gt;&#039;&#039;&#039;Air dash cancel:&#039;&#039;&#039; -27~+36"
+Linne,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Linne,Whirlwind,66~6A+B,,,,,,normal,
+Linne,"Wolf Howl (1)",6C,600,12,6,18,Strike,normal,-8
+Linne,"Wolf Howl (2)",6CC,610,13,4,22,Strike,normal,-8
+Linne,"Wolf Howl (3)",6CCC,620,21,5,25,Strike,normal,-10
+Londrekia,,2A,150,6,2,12,Strike,normal,-2
+Londrekia,,2B,490,10,3,18,Strike,normal,-5
+Londrekia,,2C,650,11,4,25,Strike,normal,-11
+Londrekia,,3C,790,12,4,22,Strike,normal,-8
+Londrekia,,4C,744,15,4,24,Strike,normal,-12
+Londrekia,,4CC,620,19,7,20,Strike,normal,-6
+Londrekia,,5A,190,6,2,13,Strike,normal,-3
+Londrekia,,5B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;470 (240*2)&quot;&gt;470&lt;/span&gt;",9,4,22,Strike,normal,-5
+Londrekia,,5BB,760,10,3,30,Strike,normal,-9
+Londrekia,,5C,680,12,4,21,Strike,normal,-7
+Londrekia,,66B,960,16,2,23,Strike,normal,-6
+Londrekia,,66C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;896 (490*2)&quot;&gt;896&lt;/span&gt;",14,4,24,Strike,normal,-7
+Londrekia,,6B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1039 with debuff&quot;&gt;790&lt;/span&gt;",28-40,44,,Strike,normal,+28
+Londrekia,,j3B,520,12,5,12,Strike,normal,Varies
+Londrekia,,j3[B],570,18,5,12,Strike,normal,Varies
+Londrekia,,jA,140,8,5,14,Strike,normal,Varies
+Londrekia,,jB,430,11,4,17,Strike,normal,Varies
+Londrekia,,jC,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;623 (330*2)&quot;&gt;623&lt;/span&gt;",12,3,19,Strike,normal,Varies
+Londrekia,,j[C],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;718 (380*2)&quot;&gt;718&lt;/span&gt;",22,4,16,Strike,normal,Varies
+Londrekia,"Circular Step (A)",214A,620,17,2,18,"Strike, Foot",special,-2
+Londrekia,"Circular Step (B)",214B,740,13,2,23,Strike,special,-7
+Londrekia,"Circular Step (C)",214C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;984 (510*2)&quot;&gt;984&lt;/span&gt;",19,"3, (3), 2",20,"Strike, Head",special,-4
+Londrekia,"Circular Step (Increase A)",214[A],650,21,3,17,"Strike, Foot",special,-2
+Londrekia,"Circular Step (Increase B)",214[B],780,25,2,23,Strike,special,-7
+Londrekia,"Circular Step (Increase C)",214[C],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1032 (535*2)&quot;&gt;1032&lt;/span&gt;",28,"3, (3), 2",20,"Strike, Head",special,-4
+Londrekia,"Circular Step: Cross Sequence (Increase ※1)",214X~[B],820,24,2,23,Strike,special,-7
+Londrekia,"Circular Step: Cross Sequence (Increase ※2)",214X~X~[B],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1137 (840, 350)&quot;&gt;1137&lt;/span&gt;",24,2,26,Strike,special,-10
+Londrekia,"Circular Step: Cross Sequence (※1)",214X~B,790,14,2,23,Strike,special,-7
+Londrekia,"Circular Step: Cross Sequence (※2)",214X~X~B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1117 (820, 350)&quot;&gt;1117&lt;/span&gt;",14,2,26,Strike,special,-10
+Londrekia,"Circular Step: Hydro Blading (※1)",214X~X,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;744 (390*2)&quot;&gt;744&lt;/span&gt;",9,"3, (21), 5",16,Strike,special,-3
+Londrekia,"Circular Step: Hydro Blading (※2)",214X~Y~Y,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;738 (395*2)&quot;&gt;738&lt;/span&gt;",7,"3, (21), 5",21,Strike,special,-8
+Londrekia,"Circular Step: Outer Edge (Increase ※1)",214X~[A],690,21,3,17,"Strike, Foot",special,-2
+Londrekia,"Circular Step: Outer Edge (Increase ※2)",214X~X~[A],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1014 (710, 350)&quot;&gt;1014&lt;/span&gt;",20,3,17,"Strike, Foot",special,-2
+Londrekia,"Circular Step: Outer Edge (※1)",214X~A,650,17,2,18,"Strike, Foot",special,-2
+Londrekia,"Circular Step: Outer Edge (※2)",214X~X~A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;994 (690, 350)&quot;&gt;994&lt;/span&gt;",17,2,18,"Strike, Foot",special,-2
+Londrekia,"Circular Step: Serpentine Tail (Increase ※1)",214X~[C],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1142 (595*2)&quot;&gt;1142&lt;/span&gt;",29,"3, (3), 2",20,"Strike, Head",special,-4
+Londrekia,"Circular Step: Serpentine Tail (Increase ※2)",214X~X~[C],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1436 (595*2, 350)&quot;&gt;1436&lt;/span&gt;",25,"3, (3), 2",30,"Strike, Head",special,-14
+Londrekia,"Circular Step: Serpentine Tail (※1)",214X~C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1021 (535*2)&quot;&gt;1021&lt;/span&gt;",19,"3, (3), 2",20,"Strike, Head",special,-4
+Londrekia,"Circular Step: Serpentine Tail (※2)",214X~X~C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1369 (560*2, 350)&quot;&gt;1369&lt;/span&gt;",19,"3, (3), 2",30,"Strike, Head",special,-14
+Londrekia,"Cocytus Ice Prison",A+B+C+D,3750,1+14,2,51,Strike,super,-25
+Londrekia,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Londrekia,"Frozen Cleave",B+C,840,12,4,37,Strike,other,-23
+Londrekia,"Frozen Cleave",B+C,840,12,4,37,Strike,other,-23
+Londrekia,"Frozen Cleave: Bisect",B+C~X,840,16,7,37,Strike,other,-15
+Londrekia,"Frozen Cleave: Bisect",B+C~X,840,16,7,37,Strike,other,-15
+Londrekia,"Frozen Spire (A)",236A,818,14,11,22,Projectile,special,-7
+Londrekia,"Frozen Spire (B)",236B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1099 (390*3)&quot;&gt;1099&lt;/span&gt;",33,19,8,Projectile,special,+9
+Londrekia,"Frozen Spire (C)",236C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1681 (355*6)&quot;&gt;1681&lt;/span&gt;",8,30,29,Projectile,special,+17
+Londrekia,"Frozen Spire (Increase B)",236[B],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1128 (400*3)&quot;&gt;1128&lt;/span&gt;",33,18,4,Strike,special,+16
+Londrekia,"Frozen Vine",236B+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;2143 with debuff&quot;&gt;1952&lt;/span&gt;",20,,,Object,special,+32
+Londrekia,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Londrekia,"Hail Storm",41236D,3401,15,"5 (5) 150",54,,super,-30
+Londrekia,"Ice Coffin","&quot;Hit with Freeze&quot;","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;Actual damage will always be lower due to scaling.&quot;&gt;283*&lt;/span&gt;",-,"Opponent trapped for base 72 frames",-,,special,-
+Londrekia,"Icicle Rain",j236B+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1848 with 6 hits. See notes&quot;&gt;2101*&lt;/span&gt;",5,,,Projectile,special,+7~+16
+Londrekia,"Snow Blossom (A)",22A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;903 with debuff&quot;&gt;664&lt;/span&gt;",,,,Projectile,special,
+Londrekia,"Snow Blossom (A)",22[A],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;903 with debuff&quot;&gt;664&lt;/span&gt;",,,,Projectile,special,
+Londrekia,"Snow Blossom (B)",22B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;903 with debuff&quot;&gt;664&lt;/span&gt;",,,,Projectile,special,
+Londrekia,"Snow Blossom (B)",22[B],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;903 with debuff&quot;&gt;664&lt;/span&gt;",,,,Projectile,special,
+Londrekia,"Snow Blossom (C)",22C,1518,,,,Projectile,special,
+Londrekia,Throw,A+D,1607,4,,,Throw,other,+35
+Londrekia,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Merkava,,2A,"168×2 (356)",6,,,"Strike, Foot",normal,-2
+Merkava,,2B,"245×2 (475)",7,,,"Strike, Foot",normal,-5
+Merkava,,2C,580,12,,,"Strike, Foot",normal,-15
+Merkava,,2CC,536,,,,Strike,normal,-11
+Merkava,,3C,"612, 488 (1041)","7, ??",,,Strike,normal,-9~+1
+Merkava,,3[C],612,7,,,Strike,normal,
+Merkava,,4B,666,"10, 12",,,Strike,normal,-6
+Merkava,,4C,862,28,,,Strike,normal,-11
+Merkava,,5A,180,8,,,Strike,normal,-2
+Merkava,,5B,460,11,,,Strike,normal,-12
+Merkava,,5BB,383,,,,Strike,normal,-14
+Merkava,,5C,690,14,,,Strike,normal,-11
+Merkava,,5[C],805,26,,,Strike,normal,-10
+Merkava,,66B,"420×2 (802)",7,,,"Strike, Foot",normal,-2
+Merkava,,66C,"442, 800 (1178)","6, ??",,,Strike,normal,-7~-2
+Merkava,,6C,774,18,,,Strike,normal,-8
+Merkava,,6[C],862,28,,,Strike,normal,-9
+Merkava,,j2C,410,10,,,"Strike, Head",normal,-12~+1
+Merkava,,jA,180,9,,,"Strike, Head",normal,"-7~+9 Assault -4~+9"
+Merkava,,jB,"280×2 (546)",10,,,"Strike, Head",normal,
+Merkava,,jC,640,15,,,"Strike, Head",normal,
+Merkava,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Merkava,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Merkava,"I, Agitate",B+C,1426~1790,12,,,Strike,other,-9
+Merkava,"I, Agitate (Vorpal)",B+C,1526~1890,11,,,Strike,other,-9
+Merkava,"I, Alienate",j4~4/j4AB,,,,18,,special,
+Merkava,"I, Ascend to the Sky",7/8/9,,17,,,,special,
+Merkava,"I, Breathe Out",j214A,710,14,,,Projectile,special,
+Merkava,"I, Breathe Out",j214B,710,15,,,Projectile,special,
+Merkava,"I, Breathe Out",j214C,"555×2, 999 (1725)",4+2,,,Projectile,special,
+Merkava,"I, Breathe Out",j214[A],"560, 515 (1075)",21,,,Projectile,special,
+Merkava,"I, Breathe Out",j214[B],"560, 515 (1075)",21,,,Projectile,special,
+Merkava,"I, Capture and Devour",214A,1517,13~23,,,Strike,special,-14~-13
+Merkava,"I, Capture and Devour",214B,1517,11~21,,,Strike,special,
+Merkava,"I, Capture and Devour",214C,1985,"4+1 ~ 14+1",,,Strike,special,-12~-2
+Merkava,"I, Defile",A+B+C+D,3780,1+14,2,51,Strike,super,-25
+Merkava,"I, Drill Through",236A,"230, 165×7 (1385)",9,,,Strike,special,-5
+Merkava,"I, Drill Through",236B,"260, 187×7 (1569)",13,,,Strike,special,-6
+Merkava,"I, Drill Through",236C,"170, 119×15 (1955)",4+8,16,22,Strike,special,-4
+Merkava,"I, Drill Through",236[B],"200, 128×11 (1608)",25,,,Strike,special,-4
+Merkava,"I, Penetrate the Clear Skies",623A,"260, 195×6 (1430)",14,,,Strike,special,+1
+Merkava,"I, Penetrate the Clear Skies",623B,"160, 112×13 (1616)",7,,,Strike,special,-8~-9
+Merkava,"I, Penetrate the Clear Skies",623C,"190, 127×13 (1841)",4+3,,,Strike,special,-36
+Merkava,"I, Persistently Cling",22A,427,,,,Strike,special,
+Merkava,"I, Persistently Cling",22B,427×2,,,,Strike,special,
+Merkava,"I, Persistently Cling",22C,427×3×3,18,,,Strike,special,-3
+Merkava,"I, Persistently Cling",22[B],427×3,,,,Strike,special,
+Merkava,"I, Rampage",236BC,2109,10,,,,special,-9~-4
+Merkava,"I, Resentfully Rage",41236D,3519,1+8,,,,super,-30
+Merkava,"I, Revile",2B+C,730,11,,,Strike,other,-7
+Merkava,"I, Revile (Increase)",2[B]+[C],780,19,,,Strike,other,0
+Merkava,"I, Revile (Increase, Vorpal)",2[B]+[C],780,19,,,Strike,other,0
+Merkava,"I, Revile (Vorpal)",2B+C,730,11,,,Strike,other,-7
+Merkava,"I, Soar Through the Sky",66,666,20,,,Head,special,
+Merkava,"Steer Ender",A+B,,,,,Strike,other,-4
+Merkava,Throw,A+D,1110~1745,4,,,Throw,other,"+29 (hit)"
+Merkava,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Mika,,2A,160,5,2,12,"Strike, Foot",normal,-2
+Mika,,2B,480,6,6,14,"Strike, Foot",normal,-4
+Mika,,2C,670,13,3,23,Strike,normal,-8
+Mika,,3B,650,13,11,12,Strike,normal,-7~+2
+Mika,,3C,612,9,2,22,Strike,normal,-6
+Mika,,5A,190,5,2,12,Strike,normal,-2
+Mika,,5A+B,"2 hits: 800&lt;br&gt;&quot;2nd hit only:&quot; 840",9,,,Strike,other,-4
+Mika,,5B,540,7,5,17,Strike,normal,-6
+Mika,,5BB,790,16,4,28,Projectile,normal,-8
+Mika,,5C,710,11,3,19,Strike,normal,-4
+Mika,,5[C],780,21,4,23,,normal,-1
+Mika,,66B,"2 hits: 802&lt;br&gt;&quot;2nd hit only&quot;: 550","8, 15",19,15,"Strike, Foot",normal,-8~+4
+Mika,,66C,1040,26,6,,Strike,normal,-10~-2
+Mika,,jA,150,7,3,14,"Strike, Head",normal,
+Mika,,jAA,540,5,2(4)2(2)2(4)3,21,"Strike, Head",normal,+4
+Mika,,jB,450,8,5,15,"Strike, Head",normal,
+Mika,,jC,620,12,4,18,"Strike, Head",normal,
+Mika,,j[C],780,19,4,20,"Strike, Head",normal,
+Mika,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Mika,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Mika,"Mika&#039;s Cannon",214A,1350,"16 (9 for hitstun)",9,20,Throw,special,
+Mika,"Mika&#039;s Cannon",214B,1620,"27 (17 for hitstun)",12,20,Throw,special,
+Mika,"Mika&#039;s Cannon",214C,2080,"14 (1+5 for hitstun)","Until Landing+2",20,Throw,special,
+Mika,"Mika&#039;s Crash",B+C,855,21,10,48,Strike,other,-23
+Mika,"Mika&#039;s Crash",jB+C,855,15,"Until Landing+10",56,"Strike, Head",other,-31
+Mika,"Mika&#039;s Crash",j[B]+[C],1222,26,"Until Landing+10",56,"Strike, Head",other,-31
+Mika,"Mika&#039;s Crash",j[B]+[C],1222,29,"Until Landing+10",56,"Strike, Head",other,-31
+Mika,"Mika&#039;s Crash",[B]+[C],1222,26,9,48,Strike,other,-23
+Mika,"Mika&#039;s Crash",[B]+[C],1222,29,9,48,Strike,other,-23
+Mika,"Mika&#039;s Galaxy",A+B+C+D,3750,1+14,2,51,Strike,super,-25
+Mika,"Mika&#039;s Hip Attack",360C,"777 + 380 + 890 / 777 + 522 + 1246 (2047~2545)",5,,,Throw,special,
+Mika,"Mika&#039;s Homing Missile",236C~1/3X,800,10,16,,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236C~2X,800,10,16,,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236C~4/6X,800,10,16,,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236C~7/9X,800,10,16,6,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236C~8X,800,8,16,7,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236X~1/3X,750,12,16,,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236X~2X,750,12,16,,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236X~4/6X,750,12,16,,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236X~7/9X,750,12,12,6,"Strike, Dive",special,
+Mika,"Mika&#039;s Homing Missile",236X~8X,750,9,10,6,"Strike, Dive",special,
+Mika,"Mika&#039;s Impact (A)",22A,870,18,,,Strike,special,-3
+Mika,"Mika&#039;s Impact (B)",22B,980,27,,,Strike,special,-6
+Mika,"Mika&#039;s Impact (C)",22C,"1150 , 1150",16,,,Strike,special,-7
+Mika,"Mika&#039;s Impact (Follow-up)",22X~X,1150,7,3,,Strike,special,-28
+Mika,"Mika&#039;s Missile",236A,750,16,15,20,Strike,special,"-12 to +7"
+Mika,"Mika&#039;s Missile",236B,750,13,27,28,Strike,special,"-33 to -7"
+Mika,"Mika&#039;s Missile",236C,1836,5,17,25,Strike,special,"-12 to +4"
+Mika,"Mika&#039;s Missile",j236A,750,14,15,20,"Strike, Dive",special,"-13 to +1"
+Mika,"Mika&#039;s Missile",j236B,750,16,20,-,"Strike, Dive",special,-2
+Mika,"Mika&#039;s Missile",j236C,800,1+4,20,-,"Strike, Dive",special,-19~+5
+Mika,"Mika&#039;s Press",2B+C,790,25,,,Strike,other,-3
+Mika,"Mika&#039;s Revolution",41236D,3562,8,,,Strike,super,-42
+Mika,"Mika&#039;s Tornado",623A,952,7,12,21,Strike,special,-2
+Mika,"Mika&#039;s Tornado",623B,1020,9,12,26,Strike,special,-7
+Mika,"Mika&#039;s Tornado",623C,1720,1+6,36,44,Strike,special,-51
+Mika,"Mika&#039;s Tornado (EX Follow-up)",623X~623C,1720,1+6,36,24,Strike,special,-7
+Mika,"Mika&#039;s Twister",623X~A,967,4,24,32,Strike,special,-24
+Mika,"Mika&#039;s Twister",623X~B,967,4,24,33,Strike,special,-25
+Mika,"Mika&#039;s Twister (Air)",j623A,994,7,24,,Strike,special,"-36 ~ -1"
+Mika,"Mika&#039;s Twister (Air)",j623B,994,8,24,,Strike,special,"-36 ~ -4"
+Mika,"Mika&#039;s Twister (Air)",j623C,1550,1+7,36,,Strike,special,"-38 ~ +3"
+Mika,Throw,A+D,1660,4,-,-,Throw,other,"+13 when successful"
+Mika,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Nanase,,2A,150,5,2,12,Strike,normal,-2
+Nanase,,2B,440,9,3,18,"Strike, Foot",normal,-5
+Nanase,,2C,590,12,4,22,"Strike, Foot",normal,-9
+Nanase,,3C,570,9,3,29,Strike,normal,-10
+Nanase,,5A,200,6,2,12,Strike,normal,-2
+Nanase,,5B,410,8,3,17,Strike,normal,-4
+Nanase,,5C,670,12,3,22,Strike,normal,-8
+Nanase,,5[C],725,17,3,23,Strike,normal,-10
+Nanase,,66B,610,18,15,7,"Strike, Foot",normal,-4~+10
+Nanase,,66C,666,27,4,20,"Strike, Foot",normal,-6~-3
+Nanase,,j2C,510,13,3,32,"Strike, Head",normal,Varies
+Nanase,,j2[C],720,17,3,28,"Strike, Head",normal,Varies
+Nanase,,j8C,590,12,4,10,"Strike, Head",normal,Varies
+Nanase,,jA,130,7,2,15,"Strike, Head",normal,Varies
+Nanase,,jB,380,11,3,19,"Strike, Head",normal,Varies
+Nanase,,jB~B,480,11,3,16,"Strike, Head",normal,Varies
+Nanase,,jC,520,12,3,25,"Strike, Head",normal,Varies
+Nanase,,j[C],720,18,3,25,"Strike, Head",normal,Varies
+Nanase,"Ange&#039;s Invitation (A)",214A,1324,17,19,24,"Strike, Projectile",special,-6~+9
+Nanase,"Ange&#039;s Invitation (B)",214B,1324,13,15,31,"Strike, Projectile",special,-9~+6
+Nanase,"Ange&#039;s Invitation (EX)",214C,1770,12,18,26,"Strike, Projectile",special,+5~+22
+Nanase,"Atmosphère of the Aether",41236D,3510,1+9,5,55,Strike,super,-43
+Nanase,"Auréole of the Starry Sky",236X~B,730,"8 (combo only)&lt;br&gt;23",3(12)5,20,Strike,special,-7~-3
+Nanase,"Avancer With You",236X~A,1090,17,10,23,Strike,special,-8~+1
+Nanase,"Breeze&#039;s Liberté",B+C,,,,,,other,
+Nanase,"Breeze&#039;s Liberté",jB+C,,,,,,other,
+Nanase,"Breeze&#039;s Liberté (Vorpal)",B+C,,,,,,other,
+Nanase,"Breeze&#039;s Liberté (Vorpal)",jB+C,,,,,,other,
+Nanase,"Chasing le Rêve (A)",236A,750,7~21,15,20,Strike,special,-17~-3
+Nanase,"Chasing le Rêve (A)",j214A,902,16,"until land",,"Strike, Dive",special,-5~-2
+Nanase,"Chasing le Rêve (B)",236B,780,9~35,27,28,Strike,special,-33~-7
+Nanase,"Chasing le Rêve (B)",j214B,1309,23,"until land",,"Strike, Dive",special,-4
+Nanase,"Chasing le Rêve (C)",j214C,1852,9,"until land",,"Strike, Dive",special,-2~+3
+Nanase,"Chasing le Rêve (EX)",236C,1848,9~18,17,25,Strike,special,-12~+4
+Nanase,"Conveying my Vrai Coeur (A)",214X~A,650,13,"until land",,"Strike, Dive",special,-10~-3
+Nanase,"Conveying my Vrai Coeur (B)",214X~B,670,16,"until land",,"Strike, Dive",special,-8~-1
+Nanase,"Conveying my Vrai Coeur (C)",214X~C,710,20,"until land",,"Strike, Dive",special,-5~-3
+Nanase,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Nanase,"Euros&#039; Whistle (A)",22A,710,11,24,7,"Strike, Projectile",special,-2~+21
+Nanase,"Euros&#039; Whistle (B)",22B,1210,43,120,,"Strike, Projectile",special,+16~+35
+Nanase,"Euros&#039; Whistle (C)",22C,"750, 750 (1410)",11,,,"Strike, Projectile",special,"0~+7 (first hit)&lt;br&gt;+28~+39 (second hit)"
+Nanase,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Nanase,"Halte Once in a While",236X~C,"440, 300*2",14,3,23,Strike,special,"-18 (whiffs if 236X does not hit)"
+Nanase,"Let the Fleur Carry your Feelings (A)",j236A,750,24,"until hit",,"Strike, Projectile",special,"+10 (+12 on crouch)"
+Nanase,"Let the Fleur Carry your Feelings (B)",j236B,"750 (Air)&lt;br&gt;444 (Ground)&lt;br&gt;777 (6B)",25,"until hit",,"Strike, Projectile",special,+14
+Nanase,"Let the Fleur Carry your Feelings (EX)",j236C,1762,6,"until hit",,"Strike, Projectile",special,+3~+31
+Nanase,"Let the Fleur Carry your Feelings (Increase A)",j236[A],920,28,"until hit",,"Strike, Projectile",special,+14
+Nanase,"Let the Fleur Carry your Feelings (Increase B)",j236[B],750,32,"until hit",,"Strike, Projectile",special,+7
+Nanase,"Lumière of the Dawn",A+B+C+D,3750,1+14,2,51,Strike,super,-25
+Nanase,"Plumage Dancing in the Wind (A)",623A,1143,5,7,38,Strike,special,-23
+Nanase,"Plumage Dancing in the Wind (B)",623B,1359,6,10,45,Strike,special,-31
+Nanase,"Plumage Dancing in the Wind (EX)",623C,2210,7,16,58,Strike,special,-48~-47
+Nanase,"Smart Steer Ender",5A+B,"432*3 (first hits), 396 (last hit)",10,11(11)3,19,Strike,other,-4
+Nanase,Throw,A+D,1640,4,3,24,Throw,other,"+49 on hit"
+Nanase,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Ogre,,2A,180,6,2,,Strike,normal,-2
+Ogre,,2B,500,8,4,18,"Strike, Foot",normal,-6
+Ogre,,2C,"679 (Both Hits), 350 (One Hit)",12,,,"Strike, Foot",normal,-2
+Ogre,,3C,680,9,4,23,Strike,normal,-9
+Ogre,,5A,190,5,2,,Strike,normal,-3
+Ogre,,5B,540,8,3,,Strike,normal,-3
+Ogre,,5C,690,11,4,,Strike,normal,-8
+Ogre,,5[C],780,21,,,Strike,normal,-8
+Ogre,,66B,"310 x 3 (973)",16,,,Strike,normal,"-4 ~ +3"
+Ogre,,66C,"490 x 2 (940)",26,,,Strike,normal,-6
+Ogre,,6B,680,23,3,,Strike,normal,-10
+Ogre,,6C,620,9,5,24,Strike,normal,-8~-11
+Ogre,,6[C],790,18,,,Strike,normal,-8~-11
+Ogre,,j2C,"340, 272*, 258* (870)",17,,,Strike,normal,Varies
+Ogre,,jA,150,7,3,,"Strike, Head",normal,Varies
+Ogre,,jB,510,9,4,,"Strike, Head",normal,Varies
+Ogre,,jC,590,12,5,,"Strike, Head",normal,Varies
+Ogre,,j[C],760,19,,,"Strike, Head",normal,Varies
+Ogre,"Beat You to the Punch!",B+C,893,15,,,Projectile,other,"-10 ~ -2"
+Ogre,"Beat You to the Punch!",B+C,893,15,,,Projectile,other,"-7 ~ +1"
+Ogre,"Beat You to the Punch!",jB+C,893,15,,,Projectile,other,
+Ogre,"Beat You to the Punch!",jB+C,893,15,,,Projectile,other,
+Ogre,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Ogre,"Disturbing Rumble",41236D,3517,"1 + 7",4,,Strike,super,"-21 ~ -18"
+Ogre,"Explode! (A)",22A,1600,28,,33,Projectile,special,3
+Ogre,"Explode! (B)",22B,1600,41,,,Projectile,special,27
+Ogre,"Gate of Hades",A+B+C+D,3780,1+14,2,51,Strike,super,-25
+Ogre,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Ogre,"Have Some More!",236A~X,"380, 777* (1157)",8,"3, (10), 5",26,Strike,special,-8
+Ogre,"Have Some More!",236B~X,"270, 264*, 761* (1295)",10,"2, (7), 3, (10), 5",26,Strike,special,-8
+Ogre,"Hit The Showers! (A)",j236A,830,16,,Varies,Projectile,special,
+Ogre,"Hit The Showers! (B)",j236B,830,21,,Varies,Projectile,special,
+Ogre,"Hit The Showers! (C)",j236C,"440 x 6 (1800)",11,,,Projectile,special,"+17 (Point Blank TK)
++44 (Fullscreen TK)"
+Ogre,"I&#039;ll Break You! (A)",236A,"495 x 2 (877)",7,"3, (9), 4",,Strike,special,-4
+Ogre,"I&#039;ll Break You! (B)",236B,"470 x 2 (921)",9,"3, (12), 4",,Strike,special,-2
+Ogre,"I&#039;ll Break You! (C)",236C,1996,7,5,28,Strike,special,-5
+Ogre,"I&#039;ll Show You!",22B+C,1716,10,,,Strike,special,+6
+Ogre,"I&#039;m Over Here!",214A~A,,,,,,special,
+Ogre,"I&#039;ve Got You! (A)",632146A,1102,9,5,30,"&lt;font style=&quot;color:Red&quot;  &gt;Throw&lt;/font&gt;",special,
+Ogre,"I&#039;ve Got You! (B)",632146B,1498,18,1,34,"&lt;font style=&quot;color:Gold&quot;  &gt;Gold Throw&lt;/font&gt;",special,
+Ogre,"I&#039;ve Got You! (C)",632146C,1648,8,5,34,"&lt;font style=&quot;color:Red&quot;  &gt;Throw&lt;/font&gt;",special,
+Ogre,"I&#039;ve Got You! (Explosion)",632146X,1300,300,,-,,special,+63
+Ogre,"No Escape! (A)",214A,930,11,4,21,Strike,special,-4
+Ogre,"No Escape! (B)",214B,1080,17,10,"14~17 (Hit/Block)
+17 (Whiff)",Strike,special,"-5 ~ +1"
+Ogre,"No Escape! (C)",214C,"1080, 833 (1913)",9,,,Strike,special,-5*
+Ogre,"No Quarter!",214A~B,640,22,11*,,Strike,special,"-2 ~ +9"
+Ogre,"Now, Fall!",214A~C,830,24,2,,Strike,special,-6
+Ogre,"Oh No, You Don&#039;t! (A)",623A,1486,8,"8, (7), 7, (10), 3",21,Strike,special,-4
+Ogre,"Oh No, You Don&#039;t! (B)",623B,1529,8,"7, (8), 6, (10), 3",22,Strike,special,-37
+Ogre,"Oh No, You Don&#039;t! (C)",623C,1819,7,"12, (27), 6, (10), 3",32,Strike,special,-25
+Ogre,"Steer Ender",5A+B,,,,,Strike,other,-4
+Ogre,Throw,A+D,1615,4,3,25,Throw,other,"+33 (on hit)"
+Ogre,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Orie,,2A,140,5,2,12,"Strike, Foot",,-2
+Orie,,2B,490,8,3,14,"Strike, Foot",,-5
+Orie,,2C,590,9,5,20,"Strike, Foot",,-7
+Orie,,3B,420,7,3,22,Strike,,-7
+Orie,,3C,780,16,4,11,Strike,,-3~0
+Orie,,4C,590,16,5,15,Strike,,-4
+Orie,,5A,200,6,2,13,Strike,,-3
+Orie,,5B,500,9,2,19,Strike,,-4
+Orie,,5C,590,12,4,22,Strike,,-8
+Orie,,66B,660,10,2,12,Strike,,-2
+Orie,,66C,978,11,24,21,Strike,,-4~-1
+Orie,,6B,480,26,4,"22 (block/whiff), 20 (hit)",Strike,,-9
+Orie,,j2C,620,14,7,16~7,"Strike, Head",,-9~+2
+Orie,,jA,140,8,2,17,"Strike, Head",,Varies
+Orie,,jB,410,9,3,18,"Strike, Head",,Varies
+Orie,,jC,570,12,6,12,"Strike, Head",,Varies
+Orie,"Aerial Leap",B+C,,,,,,,
+Orie,"Aerial Leap",jB+C,,,,,,,
+Orie,"Aerial Leap (Vorpal)",B+C,,,,,,,
+Orie,"Aerial Leap (Vorpal)",jB+C,,,,,,,
+Orie,"Command Order (A)",214A,777,15,5,18,"Strike, Foot",,-7
+Orie,"Command Order (Air) (A)",j214A,777,16,4,36~7,Strike,,-18~+11
+Orie,"Command Order (Air) (B)",j214B,999,22,5,31~2,Strike,,-14~+15
+Orie,"Command Order (Air) (C)",j214C,"350+646+929 (1925)",1+14,20,17~5,Strike,,+22~+4
+Orie,"Command Order (B)",214B,777,18,3,14,Strike,,-5
+Orie,"Command Order (C)",214C,"350+646+929 (1925)",1+10,20,10,Strike,,+7
+Orie,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Orie,"Divine Thrust (A)",236A,860,9,4,22,Strike,,-4~-1
+Orie,"Divine Thrust (B)",236B,1250,13~21,7,23,Strike,,-6~0
+Orie,"Divine Thrust (C)",236C,1395,1+5,10,29,Strike,,"-10 to -1"
+Orie,"Divine Thrust (Increase B)",236[B],1670,21,13,25,Strike,,-6~+6
+Orie,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Orie,"Luminous Embrace",41236D,3150,1+8,2*12,61,Strike,,-29~-14
+Orie,"Oblique&#039;s Edge",214X~4C,"444+632 (1076)",15,14,14,Strike,,"-14 (-11 on the second hit only)"
+Orie,"Rest in Peace",A+B+C+D,3750,1+14,2,51,Strike,super,-25
+Orie,"Reverie Obelisk",214B+C,"666, 888, 335",18,18(16)18,,Strike,,"-2 (first hit), +40 (final hits)"
+Orie,"Sacred Arrow (A)",623A,1254,6,3,28,Strike,,-24
+Orie,"Sacred Arrow (B)",623B,1330,8,6,35,Strike,,-32
+Orie,"Sacred Arrow (C)",623C,1872,1+4,7,49,Strike,,-32
+Orie,"Sacred Spire",236B+C,2070,1+7,24(5)4,40,Strike,,-17
+Orie,"Sealing Hoplon (A)",22A,740,51,10,,Strike,,+41
+Orie,"Sealing Hoplon (B)",22B,740,52,10,,Strike,,+40
+Orie,"Sealing Hoplon (C)",22C,1935,53,58,,Strike,,+102
+Orie,Succession,214X~4B,497,22,4,10,Strike,,+4
+Orie,"Swift Cut",236A~6X,730,18,2,26,Strike,,-10
+Orie,"Thick and Fast",214X~4A,"444+666 (1110)",16,3(7)2,13,Strike,,"-7 (+2 on the last hit only)"
+Orie,Throw,A+D,1580,4,3,24,Throw,,"+37 on hit"
+Orie,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Phonon,,2A,150,6,2,12,"Strike, Foot, Light Foot",normal,-2
+Phonon,,2B,490,9,3,16,Strike,normal,-4
+Phonon,,2C,600,11,4,23,"Strike, Foot",normal,-10
+Phonon,,3C,620,16,10,20,"Strike, Foot",normal,-7~-12
+Phonon,,4B,480,14,3,34,Strike,normal,-19
+Phonon,,5A,200,6,2,13,Strike,normal,-3
+Phonon,,5A+B,,,,,Strike,other,-4
+Phonon,,5B,490,10,3,16,Strike,normal,-4
+Phonon,,5B~B,480,12,4,27,Strike,normal,-10
+Phonon,,5C,"570, 570 (1071)",12,"4, (9), 3",15,Strike,normal,-2
+Phonon,,5[C],"570, 710 (1194)",12,"4, (16), 3",17,Strike,normal,-2
+Phonon,,66B,749,14,"4, (4), 6",22,Strike,normal,-9
+Phonon,,66C,540,12,6,24,Strike,normal,-9
+Phonon,,66[B],840,28,6,30,Strike,normal,-13
+Phonon,,j2B,320,8,4,,"Strike, Head",normal,Varies
+Phonon,,j2[B],470,15,3,,"Strike, Head",normal,Varies
+Phonon,,j3[C],750,20,4,16,"Strike, Head",normal,Varies
+Phonon,,j4B,470,10,2,12,"Strike, Head",normal,Varies
+Phonon,,jA,140,8,4,11,"Strike, Head",normal,Varies
+Phonon,,jB,420,10,2,22,"Strike, Head",normal,Varies
+Phonon,,jC,590,13,4,14,"Strike, Head",normal,Varies
+Phonon,,j[B],610,18,4,17,"Strike, Head",normal,Varies
+Phonon,,j[C],750,20,4,16,"Strike, Head",normal,Varies
+Phonon,Attract,6B+C~A,176-228(jf),13,3,20,Strike,other,-5
+Phonon,"Binding Beatitude",41236D,3512,1+7,,,Strike,super,-22
+Phonon,"Complete Servitude",A+B+C+D,3760,1+14,2,51,Strike,super,-25
+Phonon,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Phonon,"Echoing Reiterate",6B+C,943-1026(jf),11,2(8)2(14)2,30,Strike,other,-3
+Phonon,"Enhanced Augmentation",22B+C,-,4,-,9,-,special,-
+Phonon,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Phonon,"Guidance Ascension (A)",623A,"1224 / 1560(i)",9,12,25,"Strike, Projectile",special,"-6 / -2(i)"
+Phonon,"Guidance Ascension (B)",623B,"1314 / 1661(i)",11,12,27,"Strike, Projectile",special,"-8 / -4(i)"
+Phonon,"Guidance Ascension (C)",623C,1921,9,12,42,Strike,special,-19
+Phonon,"Impulsive Frustration",B+C,1245,"15&lt;br&gt;Vorpal: 13","9, (6), 5",19,Strike,other,-6
+Phonon,"Impulsive Frustration (IC)",[B]+[C],2140,"15&lt;br&gt;Vorpal: 13","27, (5), 5",19,Strike,other,-6
+Phonon,Raid,6B+C~B,800,16,4,22,Strike,other,-8
+Phonon,Repeat,6B+C~C,329,9,2(8)2(8)2(8)3,29,Strike,other,-12
+Phonon,"Sliding Affliction (A)",236A,"800 / 1184(i)",18,,30,"Strike, Projectile",special,"-2 / +4(i)"
+Phonon,"Sliding Affliction (Air A)",j236A,"800 / 1184(i)",16,,,"Strike, Projectile",special,"+4 / +16(i)"
+Phonon,"Sliding Affliction (Air B)",j236B,"800 / 1184(i)",16,,,"Strike, Projectile",special,"0 / +12(i)"
+Phonon,"Sliding Affliction (Air C)",j236C,1560,4+4,,,"Strike, Projectile",special,+28
+Phonon,"Sliding Affliction (B)",236B,"800 / 1184(i)",14,,36,"Strike, Projectile",special,"-8 / -2(i)"
+Phonon,"Sliding Affliction (C)",236C,1560,4+5,,30,"Strike, Projectile",special,+19
+Phonon,"Sliding Affliction (IC B)",236[B],1206,21,,40,"Strike, Projectile",special,-5
+Phonon,"Sliding Affliction(IC A)",236[A],928,25,,34,"Strike, Projectile",special,+1
+Phonon,"Suppressive Restriction (A)",22A,1203,25,12,29,"Strike, Projectile",special,-28
+Phonon,"Suppressive Restriction (Air A)",j22A,1083,21,,,"Strike, Projectile",special,
+Phonon,"Suppressive Restriction (Air B)",j22B,1311,28,,,"Strike, Projectile",special,
+Phonon,"Suppressive Restriction (Air C)",j22C,1692,4+16,,,"Strike, Projectile",special,
+Phonon,"Suppressive Restriction (B)",22B,1435,28,14,29,"Strike, Projectile",special,-15
+Phonon,"Suppressive Restriction (C)",22C,1951,4+19,12,30,"Strike, Projectile",special,-16
+Phonon,Throw,A+D,1635,4,1,26,,other,+46
+Phonon,"Tuning Satisfaction (A)",214A,610,9,6,24,Strike,special,-5
+Phonon,"Tuning Satisfaction (A~X)",214A~X,1403,11,"4, (14), 5",30,Strike,special,-13
+Phonon,"Tuning Satisfaction (B)",214B,610,10,6,33,Strike,special,-7
+Phonon,"Tuning Satisfaction (B~X)",214B~X,1403,10,"4, (14), 5",28,Strike,special,-11
+Phonon,"Tuning Satisfaction (C)",214C,1968,8,,,Strike,special,-6
+Phonon,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Seth,,214X~8,600,"14 / 28",,,,special,-8
+Seth,,214X~A,1192,1,,,,special,
+Seth,,214X~B,,1,,,,special,
+Seth,,214X~C,860,"1 / 28",,,,special,-8
+Seth,,2A,140,5,2,12,Foot,normal,-2
+Seth,,2B,410,6,3,13,Foot,normal,-4
+Seth,,2C,543,8,2(2)2,17,Foot,normal,-1
+Seth,,3B,430,9,4,18,Strike,normal,-4
+Seth,,3C,590,10,3,27,Strike,normal,-9
+Seth,,5A,170,5,2,12,Strike,normal,-2
+Seth,,5B,415,7,3,15,Strike,normal,-4
+Seth,,5C,350,10,4,17,Strike,normal,-9
+Seth,,5CC,388,4,4,21,Strike,normal,-7
+Seth,,66B,608,"7, 13",2(4)4,14,Strike,normal,-2
+Seth,,66C,690,11,4,16,Strike,normal,-10~-5
+Seth,,6C,600,28,1,16,Strike,normal,-8
+Seth,,j2C,420,9,"Until landing",-13,Head,normal,-1
+Seth,,j6C,510,26,6,17,Head,normal,-9
+Seth,,jA,140,8,4,12(2),"Strike, Head",normal,
+Seth,,jB,410,10,3,18(3),"Strike, Head",normal,
+Seth,,jC,510,12,,3,"Strike, Head",normal,
+Seth,"Abyssal Geometry",B+C,,,,,,other,
+Seth,"Abyssal Geometry",[B+C],,,,,,other,
+Seth,"Air Backdash",j44,,,,-22,,normal,
+Seth,"Captive Segment",236A,"810 [FF: 930]","Orb Set: 35, Orb Firing: 105, [Charged FF: 65]",,,Projectile,special,+28
+Seth,"Captive Segment",236B,"810 [FF: 930]","Orb Set: 35, Orb Firing: 105 [Charged FF: 65]",,,Projectile,special,+28
+Seth,"Captive Segment",236C,"1466 [FF: 1685]","Orb Set: 53, Orb Firing: 111 [Charged FF: 31]",,,Projectile,special,+45
+Seth,"Captive Segment",j.236A,"810 [FF: 930]","Orb Firing: 117 [Charged FF: 77]",,,Projectile,special,+28
+Seth,"Captive Segment",j.236B,"810 [FF: 930]","Orb Firing: 118 [Charged FF: 78]",,,Projectile,special,+28
+Seth,"Captive Segment",j.236C,"1466 [FF: 1685]","Orb Set: 50 Orb Firing: 137 [Charged FF: 47]",,,Projectile,special,+45
+Seth,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Seth,"Dead Space of Intrusion",j623A,810,11,,,Strike,special,
+Seth,"Dead Space of Intrusion",j623B,810,15,,,Strike,special,
+Seth,"Dead Space of Intrusion",j623C,1860,8,,,Strike,special,
+Seth,"Distant Frontier",A+B+C+D,3780,1+14,2,51,Strike,super,-25
+Seth,"Dual Piercing Vengeance",623A,810,12,8,21,Strike,special,-7~-2
+Seth,"Dual Piercing Vengeance",623B,810,15,9,25,Strike,special,-12~-6
+Seth,"Dual Piercing Vengeance",623C,2075,11,7,32,Strike,special,-17~-11
+Seth,"Gloomy Invitation",2B+C,810,30,,,Projectile,other,-3~+20
+Seth,"Gloomy Invitation",jB+C,810,25,,,Projectile,other,
+Seth,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Seth,"Massacring Instinct",66B+C,1152,35,,,Strike,other,-10
+Seth,"Nefarious Sequence",41236D,3269,8,34,10,Strike,super,-21
+Seth,"Piercing Penetration",j214a,732,9,,,Head,special,-11
+Seth,"Piercing Penetration",j214B,1450,30,,,Throw,special,
+Seth,"Piercing Penetration",j214C,1810,8,,,Strike,special,-6
+Seth,"Rapid Descent",j.22,,,,,,normal,
+Seth,"Rapid Descent (Follow-up 2)",j.22~4X,,,,,,normal,
+Seth,"Rapid Descent (Follow-up)",j.22~6X,810,16,,,,normal,-11
+Seth,"Steer Ender",5A+B,,,,,Strike,other,-4
+Seth,Throw,A+D,1575,4,1,22,Throw,other,"+18(On hit)"
+Seth,"Transgressing Convict",632146A,725,6,1,27,Throw,special,
+Seth,"Transgressing Convict",632146B,1204,8,1(1)2,,Throw,special,
+Seth,"Transgressing Convict",632146C,1393,6,1(1)2,28,Throw,special,
+Seth,"Vanishing Confusion",214A,,,,,,special,
+Seth,"Vanishing Confusion",214B,,,,,,special,
+Seth,"Vanishing Confusion",214C,,,,,,special,
+Seth,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Tsurugi,,2A,150,5,2,12,,normal,-2
+Tsurugi,,2B,490,8,3,15,,normal,-2
+Tsurugi,,2C,670,10,4,20,,normal,-6
+Tsurugi,,2[C],850,24,4,20,,normal,-6
+Tsurugi,,3C,780,11,2,23,,normal,-7
+Tsurugi,,5A,200,6,3,11,,normal,-2
+Tsurugi,,5A+B,,8,"8 (15) 4",18,,other,-4
+Tsurugi,,5B,570,9,4,16,,normal,-3
+Tsurugi,,5C,690,12,4,23,,normal,-9
+Tsurugi,,66B,1032,9,"4 (16) 3",27,,normal,-5
+Tsurugi,,66C,1018,11,12,19,,normal,-2~-13
+Tsurugi,,6C,770,26,3,22,,normal,-7
+Tsurugi,,6[C],940,33,3,27,,normal,-4
+Tsurugi,,A+D,1621,4,,,,other,+36
+Tsurugi,,B+C~66,,1,,,,other,
+Tsurugi,,B+C~D,,,,,,other,
+Tsurugi,,j2C,764,16,"Until L + 3",21,,normal,-4
+Tsurugi,,j2[C],1497,29,"Until L + 2 (8) 3,3,3,3",34,,normal,-12
+Tsurugi,,j6C,680,11,5,,,normal,Varies
+Tsurugi,,jA,150,7,6,10,,normal,Varies
+Tsurugi,,jB,490,9,4,21,,normal,Varies
+Tsurugi,,jC,590,12,4,"Until L",,normal,Varies
+Tsurugi,,j[C],760,20,4,,,normal,Varies
+Tsurugi,Bloomer!,j236A,850,12,3,"Until L + 9",,special,"-3 (TK)"
+Tsurugi,Bloomer!,j236B,950,13,3,"Until L + 9",,special,"-3 (TK)"
+Tsurugi,Bloomer!,j236C,1828,4+4,"1,1,1","Until L + 9",,special,"+9 (TK)"
+Tsurugi,Bloomer!,j236[B],1200,25,3,"Until L + 9",,special,"-5 (TK)"
+Tsurugi,Breaker!,B+C~X,680,13,3,18,,other,"+4 (-6*)"
+Tsurugi,"Cromlech Setter!",B+C~4X,690,13,3,31,,other,-16
+Tsurugi,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Tsurugi,"Crushing Piler!",236C,1998,4+4,8,17,,special,+10
+Tsurugi,"Earth-Breaking Excavator&amp;#33;&amp;#33;",41236D,3540,1+8,7,45,,super,-29
+Tsurugi,"Guard Thrust",6A+B+C,,,,,,other,
+Tsurugi,"High-Pressure Geo-Crusher&amp;#33;&amp;#33;",A+B+C+D,3780,1+14,2,51,Strike,super,-25
+Tsurugi,"Jaw Crusher!",214A,1200,11,6,32,,special,"+55 (hit)"
+Tsurugi,"Jaw Crusher!",214B,1200,20,6,32,,special,"+55 (hit)"
+Tsurugi,"Jaw Crusher!",214C,1644,4+7,4,42,,special,"+39 (hit)"
+Tsurugi,"Land Grader!",B+C~2X,810,9,"3,3,3,3",34,,other,-12
+Tsurugi,"Motor Grader!",236X~6A,880,14,3,21,,special,-6
+Tsurugi,"Pole Setter!",236X~6B,530,26,3,26,,special,-13
+Tsurugi,"Skid-Scare Loader!",B+C,,"13 (17)",,,,other,
+Tsurugi,"Smart Piler!",236A,680,12,5,18,,special,+1~-3
+Tsurugi,"Smart Piler!",236B,720,17,6,24,,special,-5~-10
+Tsurugi,Trebuchet!,623A,1231,7,"2,6,3",23,,special,-12
+Tsurugi,Trebuchet!,623B,1641,8,"4,3,3,3,4",40,,special,-29
+Tsurugi,Trebuchet!,623C,2011,4+1,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;4,4,2 (19) 4,4,4 (21) 4,3,3,3,3,3,3,4&quot;&gt;10 (19) 12 (21) 26&lt;/span&gt;",38,,special,-39
+Tsurugi,"Veil Off",A+B+C,,,,,,other,
+Uzuki,,214A~4B~8,,,,,,special,
+Uzuki,,214A~4D,,,,,,special,
+Uzuki,,214A~4D~4D,,,,,,special,
+Uzuki,,214A~4D~7/8/9,,,,,,special,
+Uzuki,,214B/C~4D,,,,,,special,
+Uzuki,,214B/C~4D~4D,,,,,,special,
+Uzuki,,214B/C~4D~7/8/9,,,,,,special,
+Uzuki,,2A,150,6,2,,Strike,normal,-3
+Uzuki,,2B,490,10,2,,Strike,normal,-9
+Uzuki,,2B+C,1100,,6,,,other,
+Uzuki,,2B+C,1250,,6,,,other,
+Uzuki,,2C,640,12,4,,Strike,normal,-7
+Uzuki,,3C,680,9,4,21,Strike,normal,-7
+Uzuki,,4C,710,22,"2 (2) 3",,Strike,normal,-9
+Uzuki,,4[C],890,27,"2 (2) 3",,Strike,normal,-13
+Uzuki,,5A,180,5,2,,Strike,normal,-2
+Uzuki,,5A+B,,,,,Strike,other,-4
+Uzuki,,5B,"470 (240, 240)",7,"2 (4) 4",,Strike,normal,-4
+Uzuki,,5C,690,13,5,,Strike,normal,-11
+Uzuki,,66B,"863 (230 x4)",10,24,,Strike,normal,-7
+Uzuki,,66C,960,14,5,,Strike,,-6
+Uzuki,,6C,869,7,10,,Strike,normal,-7~-2
+Uzuki,,A+D,1535,4,1,26,Throw,other,"+60 on hit"
+Uzuki,,B+C~4/6,,,,,,other,
+Uzuki,,B+C~44,,,,23,,other,
+Uzuki,,B+C~66,,,,23,,other,
+Uzuki,,B+C~7/8/9,,6,,,,other,
+Uzuki,,B+C~D,,,,,,other,
+Uzuki,,j2C,877,9,14,,Strike,normal,Varies
+Uzuki,,jA,140,7,2,,Strike,normal,Varies
+Uzuki,,jB,420,10,3,,Strike,normal,Varies
+Uzuki,,jC,"585 (310, 310)",12,3,,Strike,normal,Varies
+Uzuki,"Bag of Secrets",2B+C,,,,,,other,
+Uzuki,"Bag of Secrets",2[B]+[C],,,,,,other,
+Uzuki,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Uzuki,"Evil of Omen",41236D,3560,9,,,Strike,super,-27
+Uzuki,"Float with Parasol",jB+C,390,9,4,,Strike,other,Varies
+Uzuki,"Gorging Coffin",214A~4A,910,13(10),,,,special,-7
+Uzuki,"Gorging Coffin",214A~4B,1100,14(11),,,,special,-15
+Uzuki,"Gorging Coffin",214A~4C,"450, 450 (864)",36(33),,,,special,+11~+30
+Uzuki,"Gorging Coffin",214A~4D~A,,,,,,special,
+Uzuki,"Gorging Coffin",214A~4D~A+D,1963,27,,,,special,
+Uzuki,"Gorging Coffin",214A~4D~B,,,,,,special,
+Uzuki,"Gorging Coffin",214A~4D~C,,,,,,special,
+Uzuki,"Gorging Coffin",214B/C~4A,"560, 560 (1064)",16(13),,,,special,-11
+Uzuki,"Gorging Coffin",214B/C~4B,"420, 420, 420 (",15(12),,,,special,-14~-4
+Uzuki,"Gorging Coffin",214B/C~4C,,34(31),,,,special,+16
+Uzuki,"Gorging Coffin",214B/C~4D~A,,13,"13-18, 23-26",15,,special,Varies
+Uzuki,"Gorging Coffin",214B/C~4D~A+D,1963,27,,,,special,
+Uzuki,"Gorging Coffin",214B/C~4D~B,,31,"31-34, 44-47",15,,special,
+Uzuki,"Gorging Coffin",214B/C~4D~C,,,,,,special,
+Uzuki,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Uzuki,Items,2B+C,"([[Under Night In-Birth/Glossary#Poison|Poison]]): &#039;&#039;&#039;680&#039;&#039;&#039;&lt;br&gt;Both Vorpal: &#039;&#039;&#039;833&#039;&#039;&#039;&lt;br&gt;Vorpal: &#039;&#039;&#039;877&#039;&#039;&#039;&lt;br&gt;Celestial: &#039;&#039;&#039;955&#039;&#039;&#039;",,"15 (Ground)&lt;br&gt;5 (Air)",,,other,
+Uzuki,"Melt and Lurk",B+C,,11,,,,other,
+Uzuki,"Mist for Vanity",j236A,"770 + [[Under Night In-Birth/Glossary#Poison|Poison]]",12,,,"Strike, Projectile",special,"Varies (-7 from tk input)"
+Uzuki,"Mist for Vanity",j236B,"740 + [[Under Night In-Birth/Glossary#Poison|Poison]]",12,,,"Strike, Projectile",special,"Varies (-5 from tk input)"
+Uzuki,"Mist for Vanity",j236C,"490x4 (1698) + [[Under Night In-Birth/Glossary#Poison|Poison]]",9,,,"Strike, Projectile",special,"Varies (+17 from tk input)"
+Uzuki,"Ride on Bones",236A,980,7,21,,Strike,special,-3
+Uzuki,"Ride on Bones",236B,"982 (520, 520)",9,25,,Strike,special,"-3 (1st hit)&lt;br&gt;-9~-3 (2nd hit)"
+Uzuki,"Ride on Bones",236C,1908,9f,"12 (10) 14",,Strike,special,-26
+Uzuki,"Spine and Cleave",22A,840,16,,,,special,-8
+Uzuki,"Spine and Cleave",22B,840,16,,,,special,-8
+Uzuki,"Spine and Cleave",22C,"490x4 (1753 total)",12,,,,special,"-11, +4, +19, +34"
+Uzuki,"The Curtain Rise of Sabbath",A+B+C+D,3756,1+14,2,51,Strike,super,-25
+Uzuki,"Trap of Death",214A,670,12,4,,Strike,special,-9
+Uzuki,"Trap of Death",214B,740,17,3,,Strike,special,-15
+Uzuki,"Trap of Death",214C,740,18,3,,Strike,special,-15
+Uzuki,"Trap of Death",214[B],820,24,14,,Strike,special,+2
+Uzuki,"Trap of Death",214[C],820,25,14,,Strike,special,+2
+Uzuki,"Trap of Death",j214A,740,17,"Until landing",,"Strike, Dive",special,
+Uzuki,"Trap of Death",j214B,820,21,"Until landing",,"Strike, Dive",special,
+Uzuki,"Trap of Death",j214C,820,21,"Until landing",,,special,
+Uzuki,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Vatista,,2A,150,6,3,12,Strike,Normal,-3
+Vatista,,2B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;260×2&quot;&gt;(494)&lt;/span&gt;",9,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;6, 5&quot;&gt;(9)&lt;/span&gt;",22,Strike,Normal,-6
+Vatista,,2BB,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;240×2&quot;&gt;(460)&lt;/span&gt;","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;Only accessible as a followup to 2B&quot;&gt;(4)&lt;/span&gt;","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;5, 3&quot;&gt;(8)&lt;/span&gt;",23,Strike,Normal,-7
+Vatista,,2BBB,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;220×2&quot;&gt;424&lt;/span&gt;","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;Only accessible as a followup to 2BB&quot;&gt;(6)&lt;/span&gt;","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;9 (7) 6&quot;&gt;(15)&lt;/span&gt;",,Strike,Normal,-16~-26
+Vatista,,2C,641,"10 (Close) &lt;br/&gt;11~20 (Wheel)",13,22,"Strike, Object",Normal,-14~-3
+Vatista,,5A,160,6,3,12,Strike,Normal,-3
+Vatista,,5B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;207×2&quot;&gt;(432)&lt;/span&gt;",12,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;6, 5&quot;&gt;(9)&lt;/span&gt;",18,Strike,Normal,-2
+Vatista,,5BB,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;290×2&quot;&gt;(551)&lt;/span&gt;","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;Only accessible as a followup to 5B&quot;&gt;(4)&lt;/span&gt;","&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;4, 2&quot;&gt;(6)&lt;/span&gt;",25,Strike,Normal,-8
+Vatista,,5C,690,12,5,22,Strike,Normal,-11
+Vatista,,5CC,474~515,11,3,29,Strike,Normal,-16
+Vatista,,66B,650,9,2,12,Strike,Normal,-2
+Vatista,,66C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;195×6&quot;&gt;(955)&lt;/span&gt;",12,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;3*6&quot;&gt;(18)&lt;/span&gt;",20,Strike,Normal,-5~-20
+Vatista,,jA,140,6,3,,Strike,Normal,
+Vatista,,jB,410,11,7,,Strike,Normal,
+Vatista,,jC,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;175×3&quot;&gt;(493)&lt;/span&gt;",12,10,,Strike,Normal,+17~+19
+Vatista,Armabellum,2B+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;410×2&quot;&gt;(787)&lt;/span&gt;",12,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;9,8&quot;&gt;(17)&lt;/span&gt;",20,,other,-5
+Vatista,Armabellum,B+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;325×3&quot;&gt;(916)&lt;/span&gt;",10,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;3 (3) 2 (5) 6&quot;&gt;(11)&lt;/span&gt;",12,,other,-2
+Vatista,Armabellum,jB+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;160×4&quot;&gt;(619)&lt;/span&gt;",14,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;2, 2, 2 (2) 4&quot;&gt;(10)&lt;/span&gt;",,,other,-10~-28
+Vatista,Armabellum,j[B]+[C],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;160×11&quot;&gt;(1580)&lt;/span&gt;",13,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;1, 7, 8 (5) 2*7 (2) 4&quot;&gt;(34)&lt;/span&gt;",,,other,-18~-63
+Vatista,Armabellum,[B]+[C],"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;325×5&quot;&gt;(1432)&lt;/span&gt;",10,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;3, 2 (13) 4, 5, 6&quot;&gt;(20)&lt;/span&gt;",17,,other,-6
+Vatista,Concordia,2A+B,,,,63,,other,
+Vatista,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Vatista,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Vatista,"Lateus Orbis",41236D,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;(4305)&quot;&gt;150, 105×27, 420&lt;/span&gt;",12,,,,super,-33
+Vatista,Leviosa,jA+B,,32,,,,other,
+Vatista,"Lumen Stella",[4]6A,819,21,,,Projectile,special,+10
+Vatista,"Lumen Stella",[4]6B,1060,11,,,Projectile,special,-5
+Vatista,"Lumen Stella (Air)",j[4]6A,819,13,,,Projectile,special,-1
+Vatista,"Lumen Stella (Air)",j[4]6B,819,13,,,Projectile,special,-3
+Vatista,"Lumen Stella Eclance",[4]6C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;120×20&quot;&gt;(1735)&lt;/span&gt;",38,,,Projectile,special,+76
+Vatista,"Lumen Stella Eclance (Air)",j[4]6C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;120×20&quot;&gt;(1735)&lt;/span&gt;",36,,,Projectile,special,+74
+Vatista,"Lux Fortis",[6]4C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;200×10&quot;&gt;(1532)&lt;/span&gt;",8,25,,Projectile,special,+7
+Vatista,"Lux Fortis (Air)",j[6]4C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;190×10&quot;&gt;(1450)&lt;/span&gt;",8,25,,Projectile,special,+17
+Vatista,"Mico Ruseo",[6]4A,1250,14,10,,Projectile,special,-3
+Vatista,"Mico Ruseo",[6]4B,1250,15,10,,Projectile,special,+3
+Vatista,"Mico Ruseo (Air)",j[6]4A,1280,14,10,,Projectile,special,-3
+Vatista,"Mico Ruseo (Air)",j[6]4B,1280,17,10,,Projectile,special,-10
+Vatista,"Ruber Angelus",[2]8A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;620, 250×5&quot;&gt;(1530)&lt;/span&gt;",5,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;2 (3) 8&quot;&gt;(10)&lt;/span&gt;",,Strike,special,-16
+Vatista,"Ruber Angelus",[2]8B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;620, 318×5, 511&quot;&gt;(1776)&lt;/span&gt;",6,"1(3)2,3,3(12)3",,Strike,special,-25
+Vatista,"Ruber Angelus Estis",[2]8C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;195×6, 195×5, 195×8&quot;&gt;(2121)&lt;/span&gt;",5,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;3 (3) 8, (16) 21, (7) 3 (3) 10&quot;&gt;(11, 21, 13)&lt;/span&gt;",,Strike,special,-15
+Vatista,"Satelles Triangulum",2A+B~2C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;620×3&quot;&gt;(1680)&lt;/span&gt;",8,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;2*3&quot;&gt;(6)&lt;/span&gt;",32,,special,+6
+Vatista,"Satelles Triangulum",]X[,920,,10,,,special,
+Vatista,"Si Deus Fragmentum",5]X[/2]X[,,,,26,,special,
+Vatista,"Si Deus Fragmentum",Detonate,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;150×3, 666×2 / 150×4, 666×2&quot;&gt;(1292 (A hit)/ 1484)&lt;/span&gt;",,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;4, 4, 2 (3) 3, 3 / 4, 4, 4, 4 (3) 3, 3&quot;&gt;(16 (A hit)/ 22)&lt;/span&gt;",,,special,+18~+29
+Vatista,"Si Deus Fragmentum",j]X[,,,,32,,special,
+Vatista,"Smart Steer",5A+B,1656,14,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;8, 8, 4&quot;&gt;(20)&lt;/span&gt;",,Strike,other,-10
+Vatista,"Solis Olio",[4]6B+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;270×4, 270×4&quot;&gt;(1214), (1214)&lt;/span&gt;",9,(29),"Total 27",Projectile,special,+44
+Vatista,Throw,A+D,1580,4,3,,Throw,other,"+37 (Midscreen) &lt;br/&gt;+23 (Into Corner) &lt;br/&gt;+40~+42 (Out of Corner)"
+Vatista,"Trāns Volāns",j[8]2A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;290×N&quot;&gt;(290+)&lt;/span&gt;",7,,,Head,special,+2
+Vatista,"Trāns Volāns",j[8]2B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;350×N, 350&quot;&gt;(595+)&lt;/span&gt;",20,,,Head,special,-11
+Vatista,"Trāns Volāns",j[8]2C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;245×N, 245×2&quot;&gt;(1403+)&lt;/span&gt;",5,,,Strike,special,-1
+Vatista,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Vatista,Zahhishio,A+B+C+D,3775,1+14,2,51,Strike,super,-25
+Wagner,,2A,150,5,2,12,"Strike, Foot",,-2
+Wagner,,2B,490,9,2,19,"Strike, Foot",,-5
+Wagner,,2C,620,9,5,18,"Strike, Foot",,-5
+Wagner,,3C,660,9,3,24,Strike,,-9
+Wagner,,5A,200,5,2,12,Strike,,-2
+Wagner,,5B,490,7,3,18,Strike,,-5
+Wagner,,5C,680,12,4,21,Strike,,-8
+Wagner,,5[C],780,20,4,26,Strike,,-13
+Wagner,,66B,"350, 350",9,2,13,Strike,,-2
+Wagner,,66B,610,9,2,13,Strike,,-3
+Wagner,,66C,"490, 490",10,3,26,"Strike, Foot",,-9
+Wagner,,66C,850,10,3,26,"Strike, Foot",,-11
+Wagner,,6B,"500, 710","8, 18","2, 3",24,Strike,,-7
+Wagner,,6C,690,26,4,19,Strike,,-6
+Wagner,,j2C,680,14,"Until Land",13,"Strike, Head",,-2~-5
+Wagner,,jA,140,8,3,17,"Strike, Head",,Varies
+Wagner,,jB,420,9,4,18,"Strike, Head",,Varies
+Wagner,,jC,590,12,3,,"Strike, Head",,Varies
+Wagner,,j[B],650,17,4,20,"Strike, Head",,Varies
+Wagner,,j[C],770,20,3,,"Strike, Head",,Varies
+Wagner,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Wagner,Eroberung,j4B+C,354,16,,,Strike,,
+Wagner,Eroberung,j4[B+C],1054,23,,,Strike,,
+Wagner,"Filthy Dog!",2A+B,1235,10,3,17,Strike,,-2
+Wagner,"Filthy Dog! (IC Enhance)",2[A]+[B],1918,10,3,,Strike,,-2
+Wagner,"Filthy Dog! (IC)",2[A]+[B],1362,10,3,,Strike,,-2
+Wagner,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Wagner,"Hitze Falke",41236D,3549,1+9~25,19,,Strike,,-46~-30
+Wagner,Hollenbrand,66B+C,855,12,,,Strike,,-5
+Wagner,"Kugel Blitz (A)",236A,"1200&lt;br&gt;Enhance: 1236",10,16,4,Strike,,-5
+Wagner,"Kugel Blitz (B)",236B,"1258&lt;br&gt;Enhance: 1294",10,16,16,Strike,,-14
+Wagner,"Kugel Blitz (C)",236C,1890,1+6,12,24,Strike,,-26
+Wagner,"Lohe Garde (B)",22B,,,,,,,
+Wagner,"Lohe Garde (C)",22C,1436,1+6,6,26,Projectile,,+9
+Wagner,"Lohen Schneide",22A,,,,,,,
+Wagner,"Meggido L&#039;or Celeste Grace",A+B+C+D,3760,1+14,2,51,Strike,super,-25
+Wagner,"Schild Zack",B+C,720,15,2,27,Strike,,0
+Wagner,"Schild Zack (IC Vorpal)",[B+C],1050,28,2,36,Strike,,-10
+Wagner,"Schild Zack (IC)",[B+C],1050,28,2,36,Strike,,-10
+Wagner,"Schild Zack (Vorpal)",B+C,720,15,2,27,Strike,,0
+Wagner,"Sturm Brecher (A Enhance)",214A,700,12~19,9,14,Strike,,0~+8
+Wagner,"Sturm Brecher (A)",214A,700,12~19,9,14,Strike,,-5~+3
+Wagner,"Sturm Brecher (B Enhance)",214B,700,12~23,12,14,Strike,,-3~+8
+Wagner,"Sturm Brecher (B)",214B,700,12~23,12,14,Strike,,-8~+3
+Wagner,"Sturm Brecher (C)",214C,1890,1+7~25,20,20,Strike,,+1
+Wagner,"Sturm Brecher (IC A Enhance)",214[A],1410,22~30,9,19,Strike,,+4~+12
+Wagner,"Sturm Brecher (IC A)",214[A],1410,22~30,9,19,Strike,,-3~+5
+Wagner,"Sturm Brecher (IC B Enhance)",214[B],1410,22~33,12,19,Strike,,+1~+12
+Wagner,"Sturm Brecher (IC B)",214[B],1410,22~33,12,19,Strike,,-6~+5
+Wagner,"Sturm Schlag (A)",j236A,"1420&lt;br&gt;Enhance: 1440",12,"Until Land",,Strike,,-4
+Wagner,"Sturm Schlag (B)",j236B,"1420&lt;br&gt;Enhance: 1440",12,"Until Land",,Strike,,-6
+Wagner,"Sturm Schlag (C)",j236C,1676,1+7~9,"Until Land",,Strike,,0~+2
+Wagner,"Sturm Schlag (IC A)",j236[A],"1546&lt;br&gt;Enhance: 1566",25,"Until Land",,Strike,,-8
+Wagner,"Sturm Schlag (IC B)",j236[B],"1546&lt;br&gt;Enhance: 1566",25,"Until Land",,Strike,,-11
+Wagner,Throw,A+D,1644,4,1,22,Throw,,
+Wagner,"Throw (IC Enhance)",[A+D],1703,4,1,,Throw,,
+Wagner,"Throw (IC)",[A+D],1684,4,1,,Throw,,
+Wagner,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Wagner,"Wackenroder (A)",623A,1244,5,19,34,Strike,,-26
+Wagner,"Wackenroder (B)",623B,1520,6,18,36,Strike,,-33
+Wagner,"Wackenroder (C)",623C,1854,1+4,21,44,Strike,,-39
+Wagner,"Zerlegen (A follow-up Enhance)",236A~X,1632,,,,Strike,,-8
+Wagner,"Zerlegen (A follow-up)",236A~X,1512,,,,Strike,,-12
+Wagner,"Zerlegen (Air follow-up Enhance)",j236X~X,1845,,,,Strike,,
+Wagner,"Zerlegen (Air follow-up)",j236X~X,1738,,,,Strike,,-18
+Wagner,"Zerlegen (Air IC follow-up Enhance)",j236[X]~X,1962,,,,Strike,,
+Wagner,"Zerlegen (Air IC follow-up)",j236[X]~X,1858,,,,Strike,,-18
+Wagner,"Zerlegen (B follow-up Enhance)",236B~X,1705,,,,Strike,,-14
+Wagner,"Zerlegen (B follow-up)",236B~X,1582,,,,Strike,,-27
+Waldstein,,1A,456,8,2,14,Foot,normal,+2
+Waldstein,,214A,1220,16,5,16,Strike,,+1
+Waldstein,,214B,1410,22,4,14,Strike,,+4
+Waldstein,,214C,2150,7~10,6,17,Strike,,+9~+12
+Waldstein,,214[B],1620,29,4,,Strike,,+7
+Waldstein,,236A,1520,17,3,37,Strike,,"-20&lt;br&gt;+16 on CS"
+Waldstein,,236B,1520,26,3,32,Strike,,"-16&lt;br&gt;+16 on CS"
+Waldstein,,236C,1750,18,3,21,Strike,,-6
+Waldstein,,236X~4X,810,16,4,28,Strike,,"-14&lt;br&gt;+16 on CS"
+Waldstein,,2A,220,8,2,18,Strike,normal,-8
+Waldstein,,2B,570,11,4,17,"Strike, Foot",normal,-5
+Waldstein,,2C,720,12,5,25,Strike,normal,-12
+Waldstein,,360A,"2080&lt;br&gt;&#039;&#039;&#039;720&#039;&#039;&#039;: 2180",3,,,Throw,,"+28 (hit)&lt;br&gt;&#039;&#039;&#039;720&#039;&#039;&#039;: +42"
+Waldstein,,360B,"2080&lt;br&gt;&#039;&#039;&#039;720&#039;&#039;&#039;: 2180",6,,,Throw,,"+36 (hit)&lt;br&gt;&#039;&#039;&#039;720&#039;&#039;&#039;: +42"
+Waldstein,,360C,"2432&lt;br&gt;&#039;&#039;&#039;720&#039;&#039;&#039;: 2510",9,,,Throw,,"+28 (hit)&lt;br&gt;&#039;&#039;&#039;720&#039;&#039;&#039;: +42"
+Waldstein,,3C,1500,10,2,27,Throw,normal,Varies
+Waldstein,,41236D,3535,9,,,Throw,,-25
+Waldstein,,4B,1302,22,13,8,Strike,normal,+2
+Waldstein,,4B,400,22,13,8,Strike,normal,+4
+Waldstein,,5A,230,8,3,16,Strike,normal,-2
+Waldstein,,5B,610,13,3,21,Strike,normal,-6
+Waldstein,,5C,720,15,2,22,Strike,normal,-5
+Waldstein,,5[C],810,24,2,22,Strike,normal,-3
+Waldstein,,623A,"1180 3-hit",11,"3, (9), 4, (10), 5",20,Strike,,-3
+Waldstein,,623B,"1180 3-hit",7,"3, (9), 4, (10), 5",27,Strike,,-10
+Waldstein,,623C,"2049 4-hit",17,"2, (12), 2, (11), 2, (8), 4",22,Strike,,-12
+Waldstein,,66B,810,10,2,23,Strike,normal,-13
+Waldstein,,66C,"1093 2-hit",8,"10, (2), 7",,Strike,normal,"+2 &#039;&#039;&#039;First Hit Only&#039;&#039;&#039;: -10"
+Waldstein,,6C,"1600&lt;br&gt;&#039;&#039;&#039;Punch only&#039;&#039;&#039;: 1700","11&lt;br&gt;&#039;&#039;&#039;Punch only&#039;&#039;&#039;: 43","5, (27), 8",13,Strike,normal,+5
+Waldstein,,A+B+C+D,3788,1+14,2,51,Strike,super,-25
+Waldstein,,A+D,1770,4,,,Throw,,"+50 (hit)"
+Waldstein,,j214A,1410,7,,,Throw,,"From combo: +25&lt;br&gt;Starter: +35"
+Waldstein,,j214B,1410,7,,,Throw,,"From combo: +25&lt;br&gt;Starter: +35"
+Waldstein,,j214C,1825,5,,,Throw,,"+43 (Hit)"
+Waldstein,,j2C,510,7,"Until Landing",,"Strike, Head",normal,"-7~-12 depending on defender&#039;s height&lt;br&gt;-20 if done rising."
+Waldstein,,j6C,710,10,4,11,"Strike, Head",normal,Varies
+Waldstein,,jA,210,9,3,16,"Strike, Head",normal,Varies
+Waldstein,,jB,520,10,6,13,"Strike, Head",normal,Varies
+Waldstein,,jC,610,15,3,15,"Strike, Head",normal,Varies
+Waldstein,,j[C],810,24,3,15,"Strike, Head",normal,Varies
+Waldstein,,[4]6A,1840,27,"Until Corner","Upon impact: 35 (whiff)",Throw,,"+9~+13 (Hit)"
+Waldstein,,[4]6B,1840,30,"Until Corner","Upon impact: 35 (whiff)",Throw,,"+9~+13 (Hit)"
+Waldstein,,[4]6C,2250,6,"Until Corner","Upon impact: 35 (whiff)",Throw,,"+18~+22 (Hit)"
+Waldstein,,[A]+[D],1848,4,,,Throw,,"+10 (hit)"
+Waldstein,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Waldstein,Drauflosgehen,22A,"Varies&lt;br&gt;6 hits: 1693&lt;br&gt;1hit: 310",22,"Ground Slam: 3",37,?,,-5~+8
+Waldstein,Drauflosgehen,22B,"Varies&lt;br&gt;6 hits: 1693&lt;br&gt;1hit: 310",17,"Ground Slam: 3",44,,,-8~+1
+Waldstein,Drauflosgehen,22C,"Varies&lt;br&gt;6 hits: 2324&lt;br&gt;1hit: 440",12,"Ground Slam: 3",37,,,-1~+8
+Waldstein,"Drauflosgehen (Increase)",22[B],"Varies&lt;br&gt;6 hits: 1867&lt;br&gt;1hit: 340",30,"Ground Slam: 3",44,,,-3~+10
+Waldstein,"Ferzen Volf",B+C,"1524 2-hit&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: 810","13, 38","3, (22), Until Rock Lands",27,"Strike&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: Projectile",,"-36&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: +4~+15"
+Waldstein,"Ferzen Volf (Increase)",[B]+[C],"1667 2-hit&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: 980","13, (X)","3, (X), Until Rock Lands",32,"Strike&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: Projectile",,"-36&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: +8~+18"
+Waldstein,"Ferzen Volf (Increase, Vorpal)",[B]+[C],"1869 2-hit&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: 1122","11, (X)","3, (X), Until Rock Lands",29,"Strike&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: Projectile",,"-31&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: +15~+26"
+Waldstein,"Ferzen Volf (Vorpal)",B+C,"1833 2-hit&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: 1078","11, 32","3, (19), Until Rock Lands",25,"Strike&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: Projectile",,"-31&lt;br&gt;&#039;&#039;&#039;Rock&#039;&#039;&#039;: +7~+16"
+Waldstein,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Waldstein,"Steer Ender",5A+B,,,,,Strike,other,-14
+Waldstein,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Yuzuriha,,2A,150,5,3,12,Strike,normal,-3
+Yuzuriha,,2B,450,9,6,11,Foot,normal,0
+Yuzuriha,,2C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;340,385&quot;&gt;701&lt;/span&gt;",12,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;8,2&quot;&gt;10&lt;/span&gt;",23,"Strike, Foot",normal,-7
+Yuzuriha,,421B,,,,,,special,
+Yuzuriha,,421C,,,,,,special,59
+Yuzuriha,,4B,"520 (hit) / 1050 (parry)",17,3,22,Strike,normal,-7
+Yuzuriha,,4C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;260*4&quot;&gt;945&lt;/span&gt;",12,13,17,Strike,normal,-4
+Yuzuriha,,5A,180,5,2,12,"Foot, Light Foot",normal,-2
+Yuzuriha,,5B,540,10,3,22,Strike,normal,-6
+Yuzuriha,,5C,690,12,4,24,Strike,normal,-10
+Yuzuriha,,66B,720,8,2,23,Strike,normal,-5
+Yuzuriha,,66C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;240,520&quot;&gt;744&lt;/span&gt;",10,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;6,3&quot;&gt;9&lt;/span&gt;",41,Strike,normal,-26
+Yuzuriha,,j2C,510,13,5,"Until Land",Head,normal,"+13&lt;br /&gt;Assault: +6 - +13"
+Yuzuriha,,j2[C],710,23,5,"Until Land",Head,normal,13
+Yuzuriha,,j421A,,,,,,special,
+Yuzuriha,,j421B,,,,,,special,11
+Yuzuriha,,j421C,,,,,,special,
+Yuzuriha,,jA,140,8,"Until Land",,Head,normal,"+13&lt;br /&gt;Assault: -3 - +13"
+Yuzuriha,,jB,440,9,3,19,Head,normal,"+14&lt;br /&gt;Assault: +1 - +15"
+Yuzuriha,,jC,590,12,4,"Until Land",Head,normal,"+13&lt;br /&gt;Assault: +5 - +15"
+Yuzuriha,,jStance22,,,,,,special,
+Yuzuriha,,jStance44,,,,,,special,
+Yuzuriha,,jStance66,,,,,,special,
+Yuzuriha,,Stance22,,,,,,special,
+Yuzuriha,"Battoujutsu Ichi no Kata: Kiri★",6A,580,"14&lt;br&gt;Stance: 6",2,"24&lt;br&gt;D cancel: 21&lt;br&gt;Stance: 16",Strike,normal,"-8&lt;br&gt;D cancel: -5&lt;br&gt;Stance: 0"
+Yuzuriha,"Battoujutsu Ichi no Kata: Kiri★",6B,580,"15&lt;br&gt;Stance: 6",2,"24&lt;br&gt;D cancel: 21&lt;br&gt;Stance: 16",Strike,normal,"-8&lt;br&gt;D cancel: -5&lt;br&gt;Stance: 0"
+Yuzuriha,"Battoujutsu Ichi no Kata: Kiri★",6C,580,"16&lt;br&gt;Stance: 6",2,"24&lt;br&gt;D cancel: 21&lt;br&gt;Stance: 16",Strike,normal,"-8&lt;br&gt;D cancel: -5&lt;br&gt;Stance: 0"
+Yuzuriha,"Battoujutsu Ichi no Kata: Kiri★",j6A,580,"15&lt;br&gt;Stance: 5",3,"25&lt;br&gt;D cancel: 24&lt;br&gt;Stance: 18",Head,normal,"-10&lt;br&gt;D cancel:-9&lt;br&gt;Stance: -4"
+Yuzuriha,"Battoujutsu Ichi no Kata: Kiri★",j6B,580,"15&lt;br&gt;Stance: 5",3,"25&lt;br&gt;D cancel: 24&lt;br&gt;Stance: 18",Head,normal,"-10&lt;br&gt;D cancel:-9&lt;br&gt;Stance: -4"
+Yuzuriha,"Battoujutsu Ichi no Kata: Kiri★",j6C,580,"15&lt;br&gt;Stance: 5",3,"25&lt;br&gt;D cancel: 24&lt;br&gt;Stance: 18",Head,normal,"-10&lt;br&gt;D cancel:-9&lt;br&gt;Stance: -4"
+Yuzuriha,"Battoujutsu Ni no Kata: Saki★",236A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;970, 650, or 320 depending on remaining stance marks. See note below.&quot;&gt;970&lt;/span&gt;","17&lt;br&gt;Stance: 9",2,"36&lt;br&gt;D cancel: 35&lt;br&gt;Stance: 28",Strike,special,"-8&lt;br&gt;D cancel: -7&lt;br&gt;Stance: 0"
+Yuzuriha,"Battoujutsu Ni no Kata: Saki★",236B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;950, 680, or 400 depending on remaining stance marks. See note below.&quot;&gt;950&lt;/span&gt;","17&lt;br&gt;Stance: 9",2,"36&lt;br&gt;D cancel: 35&lt;br&gt;Stance: 28",Strike,special,"-8&lt;br&gt;D cancel: -7&lt;br&gt;Stance: 0"
+Yuzuriha,"Battoujutsu Ni no Kata: Saki★",236C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;444x3, 710&quot;&gt;1754&lt;/span&gt;","4+8&lt;br&gt;Stance: 4+3",5,"38&lt;br&gt;D cancel 37&lt;br&gt;Stance: 30",Strike,special,"-16&lt;br&gt;D cancel: -16&lt;br&gt;Stance: -8"
+Yuzuriha,"Battoujutsu Ni no Kata: Saki★",j236A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;970, 650, or 320 depending on remaining stance marks. See note below.&quot;&gt;970&lt;/span&gt;","22&lt;br&gt;Stance: 10",2,22,Strike,special,"-5&lt;br&gt;D cancel: -4&lt;br&gt;Stance: +2"
+Yuzuriha,"Battoujutsu Ni no Kata: Saki★",j236B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;950, 680, or 400 depending on remaining stance marks. See note below.&quot;&gt;950&lt;/span&gt;","22&lt;br&gt;Stance: 10",2,22,Strike,special,"0&lt;br&gt;D cancel: +1&lt;br&gt;Stance: +7"
+Yuzuriha,"Battoujutsu Ni no Kata: Saki★",j236C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;402x3, 710&quot;&gt;1642&lt;/span&gt;","4+12&lt;br&gt;Stance: 4+3",5,23,Strike,special,"-1&lt;br&gt;D cancel: 0&lt;br&gt;Stance: +6"
+Yuzuriha,"Battoujutsu San no Kata: Tachi (Follow-up)★",B+C~A,765,15,2,"29&lt;br&gt;D cancel: 28&lt;br&gt;Stance: 20",Strike,other,"-6&lt;br&gt;D cancel: -5&lt;br&gt;Stance: 0"
+Yuzuriha,"Battoujutsu San no Kata: Tachi★",B+C,850,"35 (25 with Vorpal)",2,"42&lt;br&gt;D cancel: 41&lt;br&gt;Stance: 34",Strike,other,"-8&lt;br&gt;D cancel: -7&lt;br&gt;Stance: 0"
+Yuzuriha,"Battoujutsu San no Kata: Tachi★",jB+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;Vorpal: 890&quot;&gt;850&lt;/span&gt;",18,5,"23&lt;br&gt;D cancel: 22&lt;br&gt;Stance: 12&lt;br&gt;Landing: 11",Head,other,"-11&lt;br&gt;D cancel: -10&lt;br&gt;Stance: -1"
+Yuzuriha,"Battoujutsu San no Kata: Tachi★",[B]+[C],1220,"70 (60 With Vorpal)",1,"54 (53 D-Cancel)",,other,
+Yuzuriha,"Cross Cast&amp;#32;Veil Off",A+B+C,0,2,4,20,Strike,other,+3
+Yuzuriha,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Yuzuriha,"Guard Thrust",6A+B+C,0,15,5,26,Strike,other,-12
+Yuzuriha,Hazumi,Stance7/8/9,,3,,,,special,
+Yuzuriha,"Iki Seishin no Kamae","&quot;After ★ Moves&quot;",,,,,,special,
+Yuzuriha,"Over Here!★",421A,,,,,,special,
+Yuzuriha,Shijima,Stance4/6,,,,,,special,
+Yuzuriha,"Sougetsu Ittou-Ryu et cetera! Ten&#039;i Muhou★",2B+C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;Vorpal: 820&quot;&gt;780&lt;/span&gt;","11&lt;br&gt;Stance: 8",4,25,Strike,other,-13
+Yuzuriha,"Sougetsu Ittou-ryu et cetera! Yae Ichirin★",214A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;440, 392 x 3&quot;&gt;1418&lt;/span&gt;","20&lt;br&gt;Stance: 12",5(4)16,"26&lt;br&gt;D cancel: 23&lt;br&gt;Stance: 10",Strike,special,"-11&lt;br&gt;D cancel: -8&lt;br&gt;Stance: +5"
+Yuzuriha,"Sougetsu Ittou-ryu et cetera! Yae Ichirin★",214B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;440, 392 x 3&quot;&gt;1418&lt;/span&gt;","21&lt;br&gt;Stance: 13",5(4)16,"21&lt;br&gt;D cancel: 18&lt;br&gt;Stance: 5",Strike,special,"-6&lt;br&gt;D cancel: -3&lt;br&gt;Stance: +10"
+Yuzuriha,"Sougetsu Ittou-ryu et cetera! Yae Ichirin★",214C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;288, 222 x 6, 800&quot;&gt;2007&lt;/span&gt;","4+11&lt;br&gt;Stance: 4+6",3(4)19,30,Strike,special,-6
+Yuzuriha,"Sougetsu Ittou-ryu et cetera! Yae Ichirin★",j214A,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;440, 392 x 3&quot;&gt;1418&lt;/span&gt;","22&lt;br&gt;Stance: 12",5(4)16,x,Strike,special,"±0&lt;br&gt;D cancel: +3&lt;br&gt;Stance: +16"
+Yuzuriha,"Sougetsu Ittou-ryu et cetera! Yae Ichirin★",j214B,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;440, 392 x 3&quot;&gt;1418&lt;/span&gt;","23&lt;br&gt;Stance: 13",5(4)16,x,Strike,special,"±0&lt;br&gt;D cancel: +3&lt;br&gt;Stance: +16"
+Yuzuriha,"Sougetsu Ittou-ryu et cetera! Yae Ichirin★",j214C,"&lt;span style=&quot;cursor:help;   border-bottom:1px dashed;&quot; title=&quot;288, 222 x 6, 800&quot;&gt;2007&lt;/span&gt;","4+9&lt;br&gt;Stance: 4+7",3(4)19,x,Strike,special,±0
+Yuzuriha,"Sougetsu Ittou-Ryu Ougi: Kashou",41236D,3453,1+9,3(20)3(31)6,72,Strike,super,-30
+Yuzuriha,Throw,A+D,1070,4,3,24,Throw,other,
+Yuzuriha,Throw,A+D,1580,4,3,24,Throw,other,
+Yuzuriha,Togiri,StanceD,,,,,,special,
+Yuzuriha,"Veil Off",A+B+C,0,15,2,,Strike,other,-23
+Yuzuriha,Watamashi,Stance44,,,,,,special,
+Yuzuriha,Watamashi,Stance66,,,,,,special,
+Yuzuriha,"Zero no Kata Hi-ougi: Inochi Kurenai",A+B+C+D,3770,1+14,2,51,Strike,super,-25
