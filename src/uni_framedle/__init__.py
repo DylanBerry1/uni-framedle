@@ -1,9 +1,12 @@
 import os
 
-print(os.listdir)
+def uniframedle() -> None:
+    print(os.listdir())
 
-pd.read_csv('src/uni_framedle/uni2_moves_all.csv')
 
+    assert 7 ==5
+    
+  
 
 
 # import pandas as pd
