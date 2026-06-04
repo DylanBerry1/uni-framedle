@@ -4,7 +4,11 @@
 
 # 
 
+<<<<<<< HEAD
 # \## Usage 
+=======
+# \#\# Usage            
+>>>>>>> 380c2972eb417a619da05f3c088ba3b57bf577f8
 
 # Just call the tool! It will throw you into the game immediately. No other arguments or anything needed.
 
