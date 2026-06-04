@@ -34,7 +34,10 @@ def handle_adv_frames(adv) -> str:
             return int(re.search('-\\d+', adv).group(0))
 
 def handle_startup(su) -> int:
-    return int(re.search('\\d+', su).group(0))
+    if '+' not in su:
+        return int(re.search('\\d+', su).group(0))
+    else:
+        return sum([int(x) for x in su.split('+')])
 
 def high_low(num, target):
     if num == target:
