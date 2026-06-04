@@ -4,7 +4,7 @@
 
 # 
 
-# \## Usage 
+# \#\# Usage 
 
 # Just call the tool! It will throw you into the game immediately. No other arguments or anything needed.
 
