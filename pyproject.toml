@@ -1,7 +1,7 @@
 [project]
 name = "uni-framedle"
 version = "0.1.0"
-description = "Add your description here"
+description = "test your knowledge of UNI2 moves with this fun package!"
 readme = "README.md"
 authors = [
     { name = "Dylan Berry", email = "dylanjberry@icloud.com" }

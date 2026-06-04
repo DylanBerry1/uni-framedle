@@ -48,7 +48,7 @@ def high_low(num, target):
         return "too low!"
     
 
-def main() -> None:
+def uniframedle() -> None:
     move_choice = generate_move()
     
     count = 0
