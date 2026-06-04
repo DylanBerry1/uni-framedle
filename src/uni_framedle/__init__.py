@@ -34,6 +34,8 @@ def handle_adv_frames(adv) -> str:
             return int(re.search('-\\d+', adv).group(0))
 
 def handle_startup(su) -> int:
+    if (isinstance(su, float) and math.isnan(su)) or (su == '-') or (su == None):
+        return "NA"
     if '+' not in su:
         return int(re.search('\\d+', su).group(0))
     else:
@@ -44,8 +46,10 @@ def high_low(num, target):
         return "spot on!"
     elif num > target:
         return "too high!"
-    else:
+    elif num < target:
         return "too low!"
+    else:
+        return "too real!"
     
 
 def uniframedle() -> None:
