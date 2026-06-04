@@ -4,7 +4,7 @@ import numpy as np
 import math
 import re
 
-move_df = pd.read_csv('data/uni2_moves_all.csv')
+move_df = pd.read_csv('src/uni_framedle/uni2_moves_all.csv')
 
 def get_move(character, move) -> pd.DataFrame():
     return move_df[(move_df.chara == character) & (move_df.input == move)].iloc[0]
